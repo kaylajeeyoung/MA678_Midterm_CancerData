@@ -25,14 +25,19 @@ ui_2 <- fluidPage(
 )
 server_2 <- function(input, output, session) {
   output$plot <- renderPlot({
-    #df_mean <- df %>% subset(Year == input$Year) %>% group_by(States) %>% summarise(mean_value = mean(Value))
-    plot_data <- inner_join(df, MainStates, by = "States") %>% 
-      dplyr::select("States", "long", "lat", "Age-Adjusted Rate", "Year")
+    df_mean <- df %>% subset(Year == input$Year) %>% group_by(States)
+    
+    
+    plot_data <- inner_join(df_mean, MainStates, by = "States") %>% 
+      dplyr::select("States", "long", "lat", "Age-Adjusted Rate", "Year", "group")
+    
+    plot_data$rate <- plot_data$`Age-Adjusted Rate`
+    
     ggplot() + 
       geom_polygon(data=MainStates, aes(x=long, y=lat, group=group),color="black", fill="seashell1", size = .3) + 
-      geom_polygon(data = plot_data, aes(x = long, y = lat, group = States, fill = "Age-Adjusted Rate"), 
+      geom_polygon(data = plot_data, aes(x = long, y = lat, group = States, fill = rate), 
                    color = "grey", size = .3) + 
-      scale_fill_continuous(name="Age Adjusted Rate", 
+      scale_color_gradient(name="Age Adjusted Rate", 
                             low = "blue2", 
                             high = "brown3", 
                             na.value = "grey50") + labs(title="Childhood CNS Cancer rates")
