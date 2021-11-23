@@ -1,0 +1,447 @@
+"Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Age-Adjusted Rate
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2005"	"2005"	17	1693743	1.029
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2007"	"2007"	18	1785103	1.003
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2014"	"2014"	16	1807135	0.884
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2017"	"2017"	16	1826057	0.886
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"1999"	"1999"	82	10162042	0.803
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2000"	"2000"	75	10255924	0.725
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2001"	"2001"	64	10313880	0.619
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2002"	"2002"	87	10354903	0.835
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2003"	"2003"	78	10407621	0.751
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2004"	"2004"	82	10443725	0.794
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2005"	"2005"	62	10441553	0.597
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2006"	"2006"	81	10426324	0.784
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2007"	"2007"	69	10419053	0.672
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2008"	"2008"	80	10448668	0.776
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2009"	"2009"	65	10451060	0.630
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2010"	"2010"	67	10427122	0.653
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2011"	"2011"	67	10353903	0.645
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2012"	"2012"	65	10287848	0.636
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2013"	"2013"	86	10239242	0.841
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2014"	"2014"	72	10198085	0.710
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2015"	"2015"	74	10165907	0.731
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2016"	"2016"	80	10122391	0.791
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2017"	"2017"	61	10072493	0.607
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2018"	"2018"	52	10002984	0.522
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2008"	"2008"	17	1341086	1.273
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"1999"	"1999"	22	4003280	0.547
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2000"	"2000"	29	4058589	0.707
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2001"	"2001"	31	4121474	0.751
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2002"	"2002"	31	4190302	0.743
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2003"	"2003"	16	4252139	0.376
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2004"	"2004"	21	4338695	0.489
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2005"	"2005"	30	4426511	0.694
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2006"	"2006"	29	4495577	0.667
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2007"	"2007"	31	4520513	0.700
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2008"	"2008"	22	4527628	0.494
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2009"	"2009"	29	4513647	0.654
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2010"	"2010"	28	4502829	0.623
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2011"	"2011"	31	4484509	0.696
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2012"	"2012"	29	4480062	0.652
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2013"	"2013"	26	4494301	0.578
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2014"	"2014"	34	4518227	0.752
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2015"	"2015"	34	4565764	0.751
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2016"	"2016"	43	4628015	0.930
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2017"	"2017"	36	4676055	0.773
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2018"	"2018"	27	4704922	0.577
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"1999"	"1999"	18	2373428	0.762
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2000"	"2000"	16	2422975	0.660
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2003"	"2003"	18	2526258	0.713
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2004"	"2004"	17	2563023	0.663
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2006"	"2006"	16	2669592	0.598
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2008"	"2008"	16	2763796	0.575
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2010"	"2010"	17	2780390	0.609
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2011"	"2011"	26	2774831	0.936
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2014"	"2014"	26	2766663	0.938
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2016"	"2016"	23	2789254	0.827
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2017"	"2017"	17	2795856	0.608
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2018"	"2018"	18	2799078	0.639
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"1999"	"1999"	28	3599110	0.782
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2000"	"2000"	16	3606347	0.444
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2001"	"2001"	25	3603190	0.696
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2002"	"2002"	25	3594189	0.695
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2003"	"2003"	24	3581302	0.674
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2004"	"2004"	17	3571714	0.481
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2005"	"2005"	16	3552913	0.459
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2006"	"2006"	21	3537020	0.603
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2007"	"2007"	17	3531290	0.481
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2008"	"2008"	16	3522622	0.458
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2010"	"2010"	23	3490249	0.663
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2011"	"2011"	19	3456390	0.554
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2012"	"2012"	17	3417238	0.501
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2013"	"2013"	24	3376957	0.711
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2015"	"2015"	25	3297373	0.760
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2016"	"2016"	21	3260087	0.646
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2017"	"2017"	23	3223517	0.711
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2007"	"2007"	16	1800421	0.892
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2013"	"2013"	17	1772586	0.962
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2015"	"2015"	17	1759877	0.971
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2014"	"2014"	16	1503919	1.076
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2015"	"2015"	16	1500675	1.069
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2017"	"2017"	16	1580007	1.022
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2000"	"2000"	24	2884980	0.836
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2001"	"2001"	16	2880673	0.553
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2003"	"2003"	18	2859024	0.625
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2004"	"2004"	21	2847180	0.743
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2006"	"2006"	17	2796852	0.616
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2007"	"2007"	21	2765779	0.769
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2008"	"2008"	18	2724448	0.669
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2009"	"2009"	22	2682344	0.851
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2010"	"2010"	23	2636481	0.892
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2011"	"2011"	17	2595952	0.674
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2012"	"2012"	24	2560936	0.924
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2014"	"2014"	18	2505654	0.726
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2015"	"2015"	16	2480323	0.654
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2017"	"2017"	18	2448860	0.745
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2018"	"2018"	23	2428750	0.976
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2009"	"2009"	16	1433773	1.124
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2004"	"2004"	18	1590304	1.139
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"1999"	"1999"	18	2263704	0.780
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2000"	"2000"	16	2285412	0.690
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2010"	"2010"	16	2288935	0.696
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2015"	"2015"	19	2200589	0.868
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2018"	"2018"	17	2165370	0.783
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"1999"	"1999"	30	5187922	0.575
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2000"	"2000"	19	5206876	0.364
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2001"	"2001"	31	5193778	0.596
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2002"	"2002"	28	5177855	0.543
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2003"	"2003"	35	5149468	0.683
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2004"	"2004"	35	5110669	0.690
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2005"	"2005"	30	5053118	0.610
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2006"	"2006"	26	5001918	0.519
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2007"	"2007"	31	4965536	0.626
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2008"	"2008"	31	4945553	0.638
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2009"	"2009"	37	4922253	0.762
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2010"	"2010"	29	4888971	0.595
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2011"	"2011"	38	4855634	0.797
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2012"	"2012"	31	4817894	0.655
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2013"	"2013"	22	4778259	0.466
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2014"	"2014"	27	4733211	0.574
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2015"	"2015"	35	4694616	0.745
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2016"	"2016"	30	4654858	0.651
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2017"	"2017"	23	4612049	0.505
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2018"	"2018"	38	4567919	0.843
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2003"	"2003"	17	2300840	0.739
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2006"	"2006"	16	2420033	0.673
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2007"	"2007"	17	2480165	0.683
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2010"	"2010"	19	2561234	0.741
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2012"	"2012"	24	2554975	0.938
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"1999"	"1999"	21	3222127	0.651
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2000"	"2000"	22	3214599	0.683
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2001"	"2001"	21	3200250	0.662
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2002"	"2002"	23	3182127	0.724
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2003"	"2003"	18	3169697	0.567
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2005"	"2005"	22	3142242	0.710
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2006"	"2006"	28	3128181	0.905
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2007"	"2007"	27	3118812	0.875
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2008"	"2008"	24	3105558	0.779
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2009"	"2009"	17	3087465	0.555
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2010"	"2010"	22	3059274	0.728
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2011"	"2011"	17	3024119	0.563
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2012"	"2012"	18	2990107	0.606
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2013"	"2013"	19	2969933	0.635
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2015"	"2015"	21	2937457	0.716
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2016"	"2016"	17	2923128	0.583
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2017"	"2017"	17	2915977	0.591
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2018"	"2018"	21	2901902	0.724
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"1999"	"1999"	24	3275657	0.738
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2000"	"2000"	29	3267204	0.896
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2001"	"2001"	22	3256966	0.667
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2002"	"2002"	22	3247389	0.698
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2003"	"2003"	29	3239738	0.897
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2004"	"2004"	25	3235436	0.802
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2005"	"2005"	18	3226468	0.548
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2006"	"2006"	26	3223047	0.823
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2007"	"2007"	24	3217880	0.771
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2008"	"2008"	18	3208808	0.580
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2009"	"2009"	17	3196745	0.530
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2010"	"2010"	16	3172521	0.502
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2011"	"2011"	23	3145711	0.743
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2012"	"2012"	25	3115246	0.811
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2013"	"2013"	24	3085364	0.784
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2014"	"2014"	24	3061542	0.789
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2016"	"2016"	31	3020756	1.039
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2017"	"2017"	17	3007424	0.566
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2018"	"2018"	26	2995209	0.876
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2002"	"2002"	16	1570856	1.027
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2014"	"2014"	18	1658984	1.085
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"1999"	"1999"	50	6488388	0.768
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2000"	"2000"	48	6568599	0.730
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2001"	"2001"	46	6650892	0.697
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2002"	"2002"	56	6731078	0.838
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2003"	"2003"	59	6809683	0.875
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2004"	"2004"	51	6893798	0.740
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2005"	"2005"	54	6976844	0.780
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2006"	"2006"	49	7146953	0.686
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2007"	"2007"	37	7276869	0.516
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2008"	"2008"	53	7409811	0.709
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2009"	"2009"	56	7543609	0.748
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2010"	"2010"	53	7633495	0.692
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2011"	"2011"	53	7688199	0.689
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2012"	"2012"	53	7743245	0.685
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2013"	"2013"	69	7804941	0.879
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2014"	"2014"	63	7895768	0.798
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2015"	"2015"	52	7998160	0.649
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2016"	"2016"	58	8081802	0.716
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2017"	"2017"	56	8140364	0.687
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2018"	"2018"	55	8173708	0.671
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2000"	"2000"	18	1940254	0.926
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"1999"	"1999"	16	1674996	0.956
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2001"	"2001"	20	1688011	1.197
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2003"	"2003"	19	1686857	1.131
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2011"	"2011"	17	1767550	0.963
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2000"	"2000"	18	1525842	1.188
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2001"	"2001"	20	1546638	1.312
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2002"	"2002"	17	1575649	1.101
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2007"	"2007"	23	1785103	1.315
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2008"	"2008"	17	1814820	0.920
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2009"	"2009"	20	1817884	1.094
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2010"	"2010"	19	1815534	1.040
+	"Leukemias"	"35011-35043"	"California"	"06"	"1999"	"1999"	113	10162042	1.129
+	"Leukemias"	"35011-35043"	"California"	"06"	"2000"	"2000"	111	10255924	1.093
+	"Leukemias"	"35011-35043"	"California"	"06"	"2001"	"2001"	139	10313880	1.353
+	"Leukemias"	"35011-35043"	"California"	"06"	"2002"	"2002"	121	10354903	1.172
+	"Leukemias"	"35011-35043"	"California"	"06"	"2003"	"2003"	138	10407621	1.322
+	"Leukemias"	"35011-35043"	"California"	"06"	"2004"	"2004"	111	10443725	1.066
+	"Leukemias"	"35011-35043"	"California"	"06"	"2005"	"2005"	102	10441553	0.976
+	"Leukemias"	"35011-35043"	"California"	"06"	"2006"	"2006"	103	10426324	0.978
+	"Leukemias"	"35011-35043"	"California"	"06"	"2007"	"2007"	112	10419053	1.070
+	"Leukemias"	"35011-35043"	"California"	"06"	"2008"	"2008"	98	10448668	0.928
+	"Leukemias"	"35011-35043"	"California"	"06"	"2009"	"2009"	100	10451060	0.949
+	"Leukemias"	"35011-35043"	"California"	"06"	"2010"	"2010"	105	10427122	1.001
+	"Leukemias"	"35011-35043"	"California"	"06"	"2011"	"2011"	95	10353903	0.906
+	"Leukemias"	"35011-35043"	"California"	"06"	"2012"	"2012"	83	10287848	0.804
+	"Leukemias"	"35011-35043"	"California"	"06"	"2013"	"2013"	78	10239242	0.761
+	"Leukemias"	"35011-35043"	"California"	"06"	"2014"	"2014"	70	10198085	0.684
+	"Leukemias"	"35011-35043"	"California"	"06"	"2015"	"2015"	79	10165907	0.775
+	"Leukemias"	"35011-35043"	"California"	"06"	"2016"	"2016"	82	10122391	0.809
+	"Leukemias"	"35011-35043"	"California"	"06"	"2017"	"2017"	82	10072493	0.810
+	"Leukemias"	"35011-35043"	"California"	"06"	"2018"	"2018"	78	10002984	0.777
+	"Leukemias"	"35011-35043"	"Colorado"	"08"	"2005"	"2005"	17	1289504	1.296
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"1999"	"1999"	28	4003280	0.707
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2000"	"2000"	43	4058589	1.058
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2001"	"2001"	39	4121474	0.945
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2002"	"2002"	36	4190302	0.853
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2003"	"2003"	45	4252139	1.059
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2004"	"2004"	37	4338695	0.845
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2005"	"2005"	40	4426511	0.894
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2006"	"2006"	27	4495577	0.595
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2007"	"2007"	26	4520513	0.564
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2008"	"2008"	43	4527628	0.931
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2009"	"2009"	28	4513647	0.606
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2010"	"2010"	26	4502829	0.559
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2011"	"2011"	22	4484509	0.480
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2012"	"2012"	22	4480062	0.494
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2013"	"2013"	28	4494301	0.623
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2014"	"2014"	29	4518227	0.639
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2015"	"2015"	31	4565764	0.680
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2016"	"2016"	23	4628015	0.498
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2017"	"2017"	29	4676055	0.618
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2018"	"2018"	25	4704922	0.530
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2001"	"2001"	21	2460269	0.866
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2002"	"2002"	18	2493892	0.732
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2003"	"2003"	18	2526258	0.722
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2004"	"2004"	20	2563023	0.784
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2005"	"2005"	18	2610593	0.683
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2006"	"2006"	30	2669592	1.114
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2007"	"2007"	27	2729049	1.000
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2008"	"2008"	19	2763796	0.682
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2012"	"2012"	21	2771210	0.759
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2013"	"2013"	20	2765254	0.724
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2014"	"2014"	17	2766663	0.613
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2018"	"2018"	16	2799078	0.567
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"1999"	"1999"	21	3599110	0.585
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2000"	"2000"	35	3606347	0.972
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2001"	"2001"	39	3603190	1.082
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2002"	"2002"	27	3594189	0.750
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2003"	"2003"	23	3581302	0.645
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2004"	"2004"	36	3571714	1.008
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2006"	"2006"	20	3537020	0.563
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2007"	"2007"	24	3531290	0.675
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2008"	"2008"	21	3522622	0.595
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2009"	"2009"	22	3509764	0.628
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2010"	"2010"	26	3490249	0.741
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2011"	"2011"	29	3456390	0.830
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2012"	"2012"	21	3417238	0.607
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2013"	"2013"	26	3376957	0.763
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2014"	"2014"	19	3335376	0.563
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2015"	"2015"	22	3297373	0.666
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2016"	"2016"	19	3260087	0.580
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2017"	"2017"	18	3223517	0.556
+	"Leukemias"	"35011-35043"	"Indiana"	"18"	"2000"	"2000"	17	1764612	0.958
+	"Leukemias"	"35011-35043"	"Indiana"	"18"	"2002"	"2002"	17	1764686	0.960
+	"Leukemias"	"35011-35043"	"Indiana"	"18"	"2006"	"2006"	21	1790845	1.175
+	"Leukemias"	"35011-35043"	"Louisiana"	"22"	"1999"	"1999"	16	1376341	1.141
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2000"	"2000"	17	1493782	1.145
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2001"	"2001"	17	1506076	1.129
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2002"	"2002"	16	1519125	1.072
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2004"	"2004"	17	1533272	1.109
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2005"	"2005"	19	1534518	1.229
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"1999"	"1999"	25	2881172	0.871
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2000"	"2000"	19	2884980	0.658
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2001"	"2001"	27	2880673	0.935
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2002"	"2002"	25	2869862	0.865
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2003"	"2003"	24	2859024	0.847
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2004"	"2004"	18	2847180	0.639
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2005"	"2005"	24	2823815	0.853
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2006"	"2006"	20	2796852	0.720
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2007"	"2007"	20	2765779	0.717
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2014"	"2014"	21	2505654	0.844
+	"Leukemias"	"35011-35043"	"Minnesota"	"27"	"2003"	"2003"	17	1435346	1.215
+	"Leukemias"	"35011-35043"	"Missouri"	"29"	"2002"	"2002"	17	1589672	1.076
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"1999"	"1999"	24	2263704	1.080
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2000"	"2000"	17	2285412	0.757
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2001"	"2001"	17	2303248	0.747
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2002"	"2002"	20	2318754	0.875
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2003"	"2003"	18	2330306	0.771
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2005"	"2005"	23	2332099	0.985
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2006"	"2006"	17	2320362	0.723
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2011"	"2011"	19	2277802	0.831
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2013"	"2013"	17	2236474	0.755
+	"Leukemias"	"35011-35043"	"New York"	"36"	"1999"	"1999"	36	5187922	0.697
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2000"	"2000"	50	5206876	0.963
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2001"	"2001"	45	5193778	0.871
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2002"	"2002"	32	5177855	0.619
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2003"	"2003"	37	5149468	0.723
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2004"	"2004"	38	5110669	0.746
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2005"	"2005"	34	5053118	0.671
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2006"	"2006"	41	5001918	0.811
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2007"	"2007"	40	4965536	0.802
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2008"	"2008"	36	4945553	0.718
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2009"	"2009"	34	4922253	0.691
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2010"	"2010"	38	4888971	0.774
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2011"	"2011"	29	4855634	0.601
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2012"	"2012"	32	4817894	0.667
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2013"	"2013"	33	4778259	0.686
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2014"	"2014"	26	4733211	0.547
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2015"	"2015"	33	4694616	0.697
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2016"	"2016"	20	4654858	0.426
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2017"	"2017"	24	4612049	0.518
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2018"	"2018"	28	4567919	0.608
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2000"	"2000"	18	2196520	0.818
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2001"	"2001"	16	2239347	0.718
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2002"	"2002"	23	2273537	1.020
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2004"	"2004"	17	2330717	0.724
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2005"	"2005"	16	2371142	0.666
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2007"	"2007"	18	2480165	0.722
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2008"	"2008"	20	2523924	0.792
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2010"	"2010"	16	2561234	0.630
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2014"	"2014"	16	2551408	0.627
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2015"	"2015"	17	2554963	0.671
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"1999"	"1999"	28	3222127	0.867
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2000"	"2000"	30	3214599	0.931
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2001"	"2001"	18	3200250	0.559
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2002"	"2002"	19	3182127	0.596
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2003"	"2003"	30	3169697	0.943
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2004"	"2004"	21	3160151	0.659
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2006"	"2006"	16	3128181	0.506
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2008"	"2008"	16	3105558	0.508
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2009"	"2009"	21	3087465	0.675
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2010"	"2010"	16	3059274	0.523
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2012"	"2012"	16	2990107	0.538
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2014"	"2014"	20	2953293	0.680
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"1999"	"1999"	27	3275657	0.824
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2000"	"2000"	27	3267204	0.826
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2001"	"2001"	23	3256966	0.705
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2002"	"2002"	29	3247389	0.895
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2003"	"2003"	26	3239738	0.806
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2004"	"2004"	30	3235436	0.920
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2005"	"2005"	21	3226468	0.644
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2006"	"2006"	27	3223047	0.816
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2007"	"2007"	18	3217880	0.556
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2008"	"2008"	24	3208808	0.737
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2009"	"2009"	26	3196745	0.814
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2012"	"2012"	23	3115246	0.734
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2013"	"2013"	17	3085364	0.533
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2018"	"2018"	17	2995209	0.568
+	"Leukemias"	"35011-35043"	"South Carolina"	"45"	"2002"	"2002"	16	1145171	1.382
+	"Leukemias"	"35011-35043"	"Tennessee"	"47"	"2005"	"2005"	17	1612057	1.051
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"1999"	"1999"	68	6488388	1.047
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2000"	"2000"	72	6568599	1.092
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2001"	"2001"	69	6650892	1.038
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2002"	"2002"	58	6731078	0.865
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2003"	"2003"	43	6809683	0.627
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2004"	"2004"	59	6893798	0.867
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2005"	"2005"	64	6976844	0.924
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2006"	"2006"	62	7146953	0.860
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2007"	"2007"	69	7276869	0.953
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2008"	"2008"	47	7409811	0.639
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2009"	"2009"	63	7543609	0.833
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2010"	"2010"	63	7633495	0.825
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2011"	"2011"	62	7688199	0.810
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2012"	"2012"	73	7743245	0.938
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2013"	"2013"	51	7804941	0.655
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2014"	"2014"	38	7895768	0.485
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2015"	"2015"	54	7998160	0.676
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2016"	"2016"	64	8081802	0.794
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2017"	"2017"	59	8140364	0.727
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2018"	"2018"	63	8173708	0.770
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"1999"	"1999"	19	1918957	0.988
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"2000"	"2000"	18	1940254	0.931
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"2001"	"2001"	17	1960964	0.863
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"2003"	"2003"	19	1994268	0.949
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"2012"	"2012"	18	2091576	0.860
+	"Leukemias"	"35011-35043"	"Washington"	"53"	"1999"	"1999"	16	1674996	0.951
+	"Leukemias"	"35011-35043"	"Washington"	"53"	"2003"	"2003"	17	1686857	1.013
+	"Leukemias"	"35011-35043"	"Washington"	"53"	"2016"	"2016"	17	1805755	0.943
+	"Leukemias"	"35011-35043"	"Wisconsin"	"55"	"2008"	"2008"	16	1511190	1.060
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"California"	"06"	"2000"	"2000"	17	10255924	0.170
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"California"	"06"	"2003"	"2003"	20	10407621	0.192
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"California"	"06"	"2004"	"2004"	19	10443725	0.182
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New York"	"36"	"2006"	"2006"	16	5001918	0.310
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Texas"	"48"	"2008"	"2008"	16	7409811	0.218
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2018 Mortality"
+"Query Parameters:"
+"Age Group: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years"
+"Leading Cancer Sites: All Leading Sites"
+"Group By: Leading Cancer Sites; State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2018.html for more information."
+"---"
+"Query Date: Nov 22, 2021 7:38:00 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2018, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2021. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2018.html on Nov 22, 2021 7:38:00 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/CancerMort-v2018.html#Suppressed."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/CancerMort-v2018.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
