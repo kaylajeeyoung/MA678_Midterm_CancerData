@@ -1,0 +1,561 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"Region"	"Region Code"	"Year"	"Year Code"	"Race"	"Race Code"	Deaths	Population	Age-Adjusted Rate	Age-Adjusted Rate Standard Error
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	75338	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	0	635256	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	0	11395425	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	0	81054	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	0	659502	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	0	2353484	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	0	85445	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	0	684043	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	0	90434	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	0	707165	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	0	95396	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	0	729573	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	0	2355665	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	0	100178	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	0	749996	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	0	2351190	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	0	105066	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	0	769934	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	0	2346679	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	0	11096954	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	0	109915	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	0	115332	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	0	812504	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	0	10874820	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	0	122182	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	0	2354812	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	0	129948	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	0	860373	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	0	2357408	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	0	10680020	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	0	134912	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	0	878837	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2010"	"2010"	"Black or African American"	"2054-5"	0	2349770	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	0	133726	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	0	892879	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	0	133619	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	0	907379	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	0	2316705	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	0	132234	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	0	921981	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	0	2301572	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	0	10246302	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	130572	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	0	937654	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	0	2286023	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	0	129335	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	0	951666	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	0	128148	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	0	2262985	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	0	126988	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	0	974720	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2017"	"2017"	"Black or African American"	"2054-5"	0	2249847	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	127616	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	0	977423	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2018"	"2018"	"Black or African American"	"2054-5"	0	2237094	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Northeast"	"CENS-R1"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	178679	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	0	407346	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	0	2497103	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	0	188122	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	0	427273	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	0	192080	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	0	444707	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	0	2540881	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	0	195459	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	0	459340	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	0	2553334	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	0	199001	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	0	474782	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	0	2565906	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	0	203316	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	0	490211	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	0	207689	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	0	506264	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	0	212882	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	0	522673	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	0	219074	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	0	540424	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	0	225634	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	0	557304	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	0	2640579	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	0	231088	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	0	572755	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	0	234981	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	0	586927	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	0	236706	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	0	602175	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	0	2607121	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	0	14481759	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	0	237674	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	0	617425	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	0	2581920	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	0	14338337	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	0	635529	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	0	2563087	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	240705	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	0	651599	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	0	242403	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	0	665161	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	0	2546689	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	0	243886	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	0	677591	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	0	245444	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	0	689142	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2017"	"2017"	"Black or African American"	"2054-5"	0	2551809	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	245546	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	0	696996	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2018"	"2018"	"Black or African American"	"2054-5"	0	2547421	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2018"	"2018"	"White"	"2106-3"	0	13764456	0.000	0.000
+	"Lung and Bronchus"	"22030"	"Midwest"	"CENS-R2"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	285166	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	0	601925	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	0	304349	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	0	638088	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	0	315670	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	0	672971	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	0	326330	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	0	708138	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	0	336074	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	0	743574	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	0	7056541	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	0	346595	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	0	782094	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	0	358277	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	0	825811	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	0	7160076	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	0	373595	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	0	873528	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	0	390369	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	0	922093	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	0	408729	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	0	968462	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	0	427853	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	0	1009386	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	0	441350	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	0	1045174	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	0	440032	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	0	1071638	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	0	438741	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	0	1103855	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	0	438427	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	0	1139534	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	439202	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	0	1176269	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	0	440953	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	0	1217371	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	0	443356	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	0	22397179	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	0	444443	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	445518	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	0	1303472	0.000	0.000
+	"Lung and Bronchus"	"22030"	"South"	"CENS-R3"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	560075	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	0	1712708	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	0	1248144	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	0	575242	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	0	1743431	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	0	1262554	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	0	585117	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	0	1773484	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	0	1276922	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	0	594612	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	0	1804786	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	0	1288827	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	0	605526	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	0	1841968	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	0	618073	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	0	1311244	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	0	632272	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	0	1920471	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	0	1321237	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	0	1962767	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	0	665347	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	0	1350704	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	0	686577	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	0	2055821	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	0	1368206	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	0	708273	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	0	1383802	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	0	723038	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	0	719877	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	0	2126448	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	0	1379896	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	0	716712	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	0	2134530	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	0	1373360	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	0	714991	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	0	1368991	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	714997	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	0	2176625	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	0	715928	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	0	1369497	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	0	717026	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	0	2227974	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	0	1374762	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	0	717585	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	0	2244278	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2017"	"2017"	"Black or African American"	"2054-5"	0	1377204	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	715469	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	0	2252250	0.000	0.000
+	"Lung and Bronchus"	"22030"	"West"	"CENS-R4"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	75338	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	18	2330517	0.763	0.180
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	77	11395425	0.674	0.077
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	82	11397866	0.718	0.079
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	0	85445	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	72	11379195	0.633	0.075
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	21	2356933	0.894	0.195
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	70	11346842	0.615	0.074
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	79	11290947	0.708	0.080
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	0	100178	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	79	11217586	0.714	0.080
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	0	105066	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	65	11096954	0.590	0.073
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	0	109915	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	17	2346062	0.721	0.176
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	68	10981081	0.622	0.076
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	0	115332	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	83	10874820	0.768	0.085
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	0	122182	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	66	10779767	0.625	0.077
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	0	129948	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	73	10680020	0.694	0.081
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	0	134912	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	58	10573030	0.551	0.072
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	0	133726	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	72	10484587	0.697	0.082
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	0	133619	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	16	2316705	0.697	0.174
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	78	10368890	0.765	0.087
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	0	132234	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	55	10246302	0.542	0.073
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	130572	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	63	10130780	0.626	0.079
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	0	129335	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	67	10019950	0.674	0.082
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	18	2262985	0.796	0.188
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	72	9918149	0.736	0.087
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	0	126988	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2017"	"2017"	"White"	"2106-3"	58	9833419	0.594	0.078
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	127616	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2018"	"2018"	"Black or African American"	"2054-5"	16	2237094	0.722	0.181
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2018"	"2018"	"White"	"2106-3"	83	9750421	0.859	0.094
+	"Brain and Other Nervous System"	"31010-31040"	"Northeast"	"CENS-R1"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	178679	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	0	407346	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	24	2497103	0.952	0.195
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	97	15474398	0.625	0.063
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	100	15441416	0.648	0.065
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	103	15382190	0.672	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	101	15283610	0.666	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	0	199001	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	99	15198336	0.653	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	100	15130073	0.661	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	103	15027426	0.691	0.068
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	16	2609487	0.617	0.154
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	96	14945712	0.648	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	0	219074	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	111	14884491	0.752	0.071
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	0	557304	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	17	2640579	0.653	0.159
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	97	14808736	0.659	0.067
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	107	14719900	0.732	0.071
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	23	2631674	0.891	0.186
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	86	14613443	0.595	0.064
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	17	2607121	0.666	0.162
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	87	14481759	0.605	0.065
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	17	2581920	0.670	0.163
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	96	14338337	0.672	0.069
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	0	238927	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	20	2563087	0.778	0.174
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	108	14226998	0.762	0.073
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	240705	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	87	14122691	0.616	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	0	242403	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	20	2546689	0.787	0.176
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	93	14020980	0.668	0.069
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	18	2549574	0.699	0.165
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	72	13932051	0.520	0.061
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2017"	"2017"	"Black or African American"	"2054-5"	16	2551809	0.626	0.157
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2017"	"2017"	"White"	"2106-3"	92	13854172	0.666	0.069
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2018"	"2018"	"White"	"2106-3"	104	13764456	0.760	0.075
+	"Brain and Other Nervous System"	"31010-31040"	"Midwest"	"CENS-R2"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	0	285166	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	43	6862755	0.625	0.095
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	142	20558298	0.692	0.058
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	0	638088	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	57	6908727	0.825	0.109
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	145	20707658	0.702	0.058
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	32	6962801	0.457	0.081
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	139	20821400	0.671	0.057
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	56	7011338	0.808	0.108
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	154	20957920	0.741	0.060
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	53	7056541	0.752	0.103
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	152	21090469	0.722	0.059
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	51	7119501	0.715	0.100
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	145	21267656	0.685	0.057
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	50	7160076	0.711	0.101
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	152	21418905	0.716	0.058
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	43	7266888	0.605	0.092
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	140	21628917	0.658	0.056
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	35	7358645	0.483	0.082
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	127	21848469	0.587	0.052
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	0	408729	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	41	7432995	0.553	0.087
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	141	22021129	0.644	0.054
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	45	7482474	0.614	0.092
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	139	22118483	0.632	0.054
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	38	7495567	0.512	0.083
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	146	22144632	0.660	0.055
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	52	7470174	0.701	0.097
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	155	22116864	0.702	0.056
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	54	7446882	0.724	0.099
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	159	22113955	0.719	0.057
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	39	7428841	0.524	0.084
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	162	22133350	0.733	0.058
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	0	439202	0.000	0.000
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	57	7427216	0.769	0.102
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	170	22191681	0.767	0.059
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	47	7447193	0.629	0.092
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	150	22292874	0.675	0.055
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	52	7482756	0.697	0.097
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	167	22397179	0.746	0.058
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2017"	"2017"	"Black or African American"	"2054-5"	60	7508171	0.803	0.104
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2017"	"2017"	"White"	"2106-3"	139	22458465	0.622	0.053
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2018"	"2018"	"Black or African American"	"2054-5"	40	7514893	0.534	0.084
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2018"	"2018"	"White"	"2106-3"	141	22479969	0.628	0.053
+	"Brain and Other Nervous System"	"31010-31040"	"South"	"CENS-R3"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	115	15216837	0.754	0.070
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"1999"	"1999"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	110	15362097	0.714	0.068
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2000"	"2000"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	114	15433869	0.738	0.069
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2001"	"2001"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	115	15488332	0.744	0.069
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2002"	"2002"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	140	15542527	0.906	0.077
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2003"	"2003"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	116	15605107	0.752	0.070
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2004"	"2004"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	118	15651349	0.758	0.070
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2005"	"2005"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	111	15717350	0.711	0.068
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2006"	"2006"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	118	15782007	0.754	0.069
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2007"	"2007"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	129	15849793	0.822	0.072
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2008"	"2008"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	94	15856532	0.597	0.062
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2009"	"2009"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	93	15810793	0.594	0.062
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2010"	"2010"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	111	15729146	0.705	0.067
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2011"	"2011"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	17	2134530	0.798	0.194
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	106	15652180	0.679	0.066
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2012"	"2012"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	112	15599142	0.717	0.068
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2013"	"2013"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	126	15560776	0.812	0.072
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2014"	"2014"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	98	15540762	0.631	0.064
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2015"	"2015"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	21	2227974	0.940	0.205
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	107	15534052	0.689	0.067
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2016"	"2016"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2017"	"2017"	"White"	"2106-3"	101	15503603	0.652	0.065
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2017"	"2017"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2018"	"2018"	"White"	"2106-3"	86	15447379	0.558	0.060
+	"Brain and Other Nervous System"	"31010-31040"	"West"	"CENS-R4"	"2018"	"2018"	"Not Reported"	"100"	0	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2018 Mortality"
+"Query Parameters:"
+"Age Group: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years"
+"Cancer Sites: Lung and Bronchus; Brain and Other Nervous System"
+"Group By: Cancer Sites; Region; Year; Race"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2018.html for more information."
+"---"
+"Query Date: Nov 23, 2021 3:50:22 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2018, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2021. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2018.html on Nov 23, 2021 3:50:22 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/CancerMort-v2018.html#Suppressed."
+"2. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"5. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
