@@ -45,3 +45,15 @@ server_2 <- function(input, output, session) {
 }
 
 shinyApp(ui_2, server_2)
+
+
+
+log(cbrain_region$`Death Rate`)
+#cbrain_region <- cbrain_region %>% group_by(across(c("Region", "Year"))) %>% 
+#  summarise("Total Deaths" = sum(Deaths), "Total Population" = sum(Population), "Death Rate" = sum(Deaths)/sum(Population))
+ggplot(cbrain_region, aes(x = Year, y = `Age-Adjusted Rate`, group = Region)) + geom_line(aes(color = Region), size = 1)
+ggplot(cbrain_region, aes(x = Year, y = log(`Death Rate`), group = Region)) + geom_line(aes(color = Region), size = 1)
+ggplot(cbrain_region[cbrain_region$Region == "Midwest",], aes(x = Population, group = Year)) + geom_histogram(aes(fill = Year))
+
+
+lm(log(`Death Rate`) ~ Year + Region, data = cbrain_region)
