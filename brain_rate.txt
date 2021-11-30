@@ -1,0 +1,1082 @@
+"Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	Mortality-Incidence Age-Adjusted Rate Ratio	Death Counts	Mortality Population	Incidence Counts	Incidence Population
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"1999"	"1999"	0.716	210	4430141	294	4430141
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2000"	"2000"	0.727	217	4452173	296	4452173
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2001"	"2001"	0.670	203	4467634	301	4467634
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2002"	"2002"	0.695	219	4480089	308	4480089
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2003"	"2003"	0.667	204	4503491	300	4503491
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2004"	"2004"	0.667	215	4530729	317	4530729
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2005"	"2005"	0.636	193	4565917	299	4565917
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2006"	"2006"	0.620	198	4628981	308	4628981
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2007"	"2007"	0.710	242	4672840	334	4672840
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2008"	"2008"	0.653	247	4718206	372	4718206
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2009"	"2009"	0.723	268	4757938	361	4757938
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2010"	"2010"	0.794	274	4785437	332	4785437
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2011"	"2011"	0.760	263	4799069	330	4799069
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2012"	"2012"	0.639	266	4815588	394	4815588
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2013"	"2013"	0.790	298	4830081	355	4830081
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2014"	"2014"	0.867	290	4841799	319	4841799
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2015"	"2015"	0.833	305	4852347	344	4852347
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2016"	"2016"	0.852	311	4863525	351	4863525
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2017"	"2017"	0.763	272	4874486	335	4874486
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2018"	"2018"	0.696	298	4887681	398	4887681
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"1999"	"1999"	0.566	19	624779	35	624779
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2001"	"2001"	0.619	22	633714	36	633714
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2002"	"2002"	0.622	20	642337	37	642337
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2003"	"2003"	0.761	19	648414	31	648414
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2004"	"2004"	0.580	24	659286	41	659286
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2005"	"2005"	0.556	21	666946	38	666946
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2006"	"2006"	0.853	19	675302	28	675302
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2007"	"2007"	0.643	20	680300	41	680300
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2008"	"2008"	0.539	26	687455	45	687455
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2009"	"2009"	0.511	25	698895	56	698895
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2010"	"2010"	0.417	24	713910	71	713910
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2011"	"2011"	0.942	39	722128	42	722128
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2012"	"2012"	0.656	27	730443	43	730443
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2013"	"2013"	0.979	30	737068	37	737068
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2014"	"2014"	0.477	22	736283	41	736283
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2015"	"2015"	0.480	23	737498	53	737498
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2016"	"2016"	0.676	39	741456	57	741456
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2017"	"2017"	0.713	33	739700	49	739700
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2018"	"2018"	0.897	35	735139	42	735139
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"1999"	"1999"	0.654	226	5023823	346	5023823
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2000"	"2000"	0.683	220	5160586	324	5160586
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2001"	"2001"	0.647	218	5273477	338	5273477
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2002"	"2002"	0.597	215	5396255	361	5396255
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2003"	"2003"	0.667	222	5510364	335	5510364
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2004"	"2004"	0.549	227	5652404	411	5652404
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2005"	"2005"	0.668	279	5839077	418	5839077
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2006"	"2006"	0.569	252	6029141	438	6029141
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2007"	"2007"	0.584	254	6167681	426	6167681
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2008"	"2008"	0.576	273	6280362	460	6280362
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2009"	"2009"	0.599	278	6343154	464	6343154
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2010"	"2010"	0.569	275	6407172	468	6407172
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2011"	"2011"	0.577	278	6472643	468	6472643
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2012"	"2012"	0.706	340	6554978	472	6554978
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2013"	"2013"	0.692	329	6632764	461	6632764
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2014"	"2014"	0.732	360	6730413	479	6730413
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2015"	"2015"	0.700	332	6829676	447	6829676
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2016"	"2016"	0.697	343	6941072	466	6941072
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2017"	"2017"	0.723	344	7044008	458	7044008
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2018"	"2018"	0.740	366	7158024	458	7158024
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2001"	"2001"	0.891	140	2691571	151	2691571
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2002"	"2002"	1.013 (Unreliable)	154	2705927	150	2705927
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2003"	"2003"	0.768	148	2724816	186	2724816
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2004"	"2004"	0.782	147	2749686	183	2749686
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2005"	"2005"	0.744	146	2781097	188	2781097
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2006"	"2006"	0.634	134	2821761	204	2821761
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2007"	"2007"	0.750	173	2848650	223	2848650
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2008"	"2008"	0.744	158	2874554	207	2874554
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2009"	"2009"	0.743	164	2896843	207	2896843
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2010"	"2010"	0.712	157	2921964	213	2921964
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2011"	"2011"	0.718	157	2940667	206	2940667
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2012"	"2012"	0.767	175	2952164	223	2952164
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2013"	"2013"	0.677	168	2959400	235	2959400
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2014"	"2014"	0.608	168	2967392	256	2967392
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2015"	"2015"	0.878	197	2978048	216	2978048
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2016"	"2016"	0.772	181	2989918	222	2989918
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2017"	"2017"	0.695	159	3001345	215	3001345
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2018"	"2018"	0.632	162	3009733	235	3009733
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"1999"	"1999"	0.733	1442	33499204	2049	33499204
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2000"	"2000"	0.731	1380	33987977	1962	33987977
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2001"	"2001"	0.702	1361	34479458	2001	34479458
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2002"	"2002"	0.692	1409	34871843	2106	34871843
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2003"	"2003"	0.670	1413	35253159	2166	35253159
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2004"	"2004"	0.665	1388	35574576	2150	35574576
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2005"	"2005"	0.697	1476	35827943	2152	35827943
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2006"	"2006"	0.692	1421	36021202	2096	36021202
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2007"	"2007"	0.671	1481	36250311	2244	36250311
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2008"	"2008"	0.684	1513	36604337	2228	36604337
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2009"	"2009"	0.684	1566	36961229	2312	36961229
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2010"	"2010"	0.667	1528	37319502	2317	37319502
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2011"	"2011"	0.712	1622	37638369	2271	37638369
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2012"	"2012"	0.732	1714	37948800	2327	37948800
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2013"	"2013"	0.694	1709	38260787	2443	38260787
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2014"	"2014"	0.711	1749	38596972	2433	38596972
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2015"	"2015"	0.727	1826	38918045	2449	38918045
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2016"	"2016"	0.778	1887	39167117	2397	39167117
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2017"	"2017"	0.702	1801	39358497	2473	39358497
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2018"	"2018"	0.782	1958	39461588	2418	39461588
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"1999"	"1999"	0.658	163	4226018	265	4226018
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2000"	"2000"	0.631	167	4326921	275	4326921
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2001"	"2001"	0.588	172	4425687	307	4425687
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2002"	"2002"	0.647	174	4490406	278	4490406
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2003"	"2003"	0.768	206	4528732	276	4528732
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2004"	"2004"	0.613	176	4575013	298	4575013
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2005"	"2005"	0.581	186	4631888	321	4631888
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2006"	"2006"	0.640	199	4720423	312	4720423
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2007"	"2007"	0.687	208	4803868	312	4803868
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2008"	"2008"	0.616	207	4889730	340	4889730
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2009"	"2009"	0.606	216	4972195	365	4972195
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2010"	"2010"	0.680	226	5047349	336	5047349
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2011"	"2011"	0.612	214	5121108	351	5121108
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2012"	"2012"	0.707	243	5192647	343	5192647
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2013"	"2013"	0.787	256	5269035	321	5269035
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2014"	"2014"	0.619	243	5350101	382	5350101
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2015"	"2015"	0.596	238	5450623	391	5450623
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2016"	"2016"	0.753	275	5539215	351	5539215
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2017"	"2017"	0.619	267	5611885	408	5611885
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2018"	"2018"	0.691	258	5691287	372	5691287
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"1999"	"1999"	0.602	157	3386401	254	3386401
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2000"	"2000"	0.557	165	3411777	292	3411777
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2001"	"2001"	0.542	151	3432835	269	3432835
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2002"	"2002"	0.566	146	3458749	249	3458749
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2003"	"2003"	0.549	153	3484336	271	3484336
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2004"	"2004"	0.547	155	3496094	273	3496094
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2005"	"2005"	0.608	166	3506956	264	3506956
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2006"	"2006"	0.565	154	3517460	264	3517460
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2007"	"2007"	0.589	154	3527270	255	3527270
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2008"	"2008"	0.508	153	3545579	285	3545579
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2009"	"2009"	0.623	182	3561807	287	3561807
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2010"	"2010"	0.666	199	3579114	277	3579114
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2011"	"2011"	0.563	171	3588283	285	3588283
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2012"	"2012"	0.605	168	3594547	260	3594547
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2013"	"2013"	0.468	155	3594841	305	3594841
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2014"	"2014"	0.745	189	3594524	240	3594524
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2015"	"2015"	0.662	212	3587122	305	3587122
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2016"	"2016"	0.651	203	3578141	288	3578141
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2017"	"2017"	0.642	186	3573297	280	3573297
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2018"	"2018"	0.578	196	3571520	314	3571520
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"1999"	"1999"	0.619	36	774990	59	774990
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2000"	"2000"	0.825	39	786373	47	786373
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2001"	"2001"	0.667	46	795699	68	795699
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2002"	"2002"	0.823	40	806169	48	806169
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2003"	"2003"	0.767	34	818003	43	818003
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2004"	"2004"	0.470	33	830803	69	830803
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2005"	"2005"	0.579	39	845150	68	845150
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2006"	"2006"	0.664	46	859268	66	859268
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2007"	"2007"	0.536	35	871749	63	871749
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2008"	"2008"	0.637	50	883874	76	883874
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2009"	"2009"	0.631	42	891730	68	891730
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2010"	"2010"	0.443	30	899593	59	899593
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2011"	"2011"	0.617	45	907381	69	907381
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2012"	"2012"	0.690	47	915179	68	915179
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2013"	"2013"	0.716	53	923576	68	923576
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2014"	"2014"	0.615	43	932487	66	932487
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2015"	"2015"	0.587	38	941252	60	941252
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2016"	"2016"	0.788	67	948921	77	948921
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2017"	"2017"	0.586	51	956823	77	956823
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2018"	"2018"	0.606	47	965479	70	965479
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2000"	"2000"	0.506	18	572046	35	572046
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2001"	"2001"	0.671	22	574504	34	574504
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2002"	"2002"	0.663	17	573158	26	573158
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2003"	"2003"	0.544	16	568502	29	568502
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2004"	"2004"	0.589	18	567754	31	567754
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2005"	"2005"	0.491	17	567136	39	567136
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2006"	"2006"	0.648	21	570681	34	570681
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2008"	"2008"	0.594	24	580236	40	580236
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2009"	"2009"	0.700	26	592228	36	592228
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2010"	"2010"	0.464	19	605226	40	605226
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2011"	"2011"	0.490	16	619800	33	619800
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2012"	"2012"	0.482	18	634924	41	634924
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2013"	"2013"	0.406	18	650581	42	650581
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2014"	"2014"	0.497	18	662328	37	662328
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2017"	"2017"	0.553	18	694906	30	694906
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2018"	"2018"	0.687	30	701547	43	701547
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"1999"	"1999"	0.589	773	15759421	1231	15759421
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2000"	"2000"	0.619	907	16047515	1373	16047515
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2001"	"2001"	0.655	902	16356966	1291	16356966
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2002"	"2002"	0.598	858	16689370	1346	16689370
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2003"	"2003"	0.565	818	17004085	1339	17004085
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2004"	"2004"	0.541	840	17415318	1425	17415318
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2005"	"2005"	0.566	889	17842038	1473	17842038
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2006"	"2006"	0.569	860	18166990	1397	18166990
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2007"	"2007"	0.556	851	18367842	1425	18367842
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2008"	"2008"	0.558	867	18527305	1417	18527305
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2009"	"2009"	0.554	918	18652644	1515	18652644
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2010"	"2010"	0.596	974	18845537	1501	18845537
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2011"	"2011"	0.616	1011	19053237	1483	19053237
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2012"	"2012"	0.675	1080	19297822	1467	19297822
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2013"	"2013"	0.595	1022	19545621	1559	19545621
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2014"	"2014"	0.660	1114	19845911	1528	19845911
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2015"	"2015"	0.656	1181	20209042	1612	20209042
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2016"	"2016"	0.608	1094	20613477	1631	20613477
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2017"	"2017"	0.674	1224	20963613	1608	20963613
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2018"	"2018"	0.618	1201	21244317	1741	21244317
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"1999"	"1999"	0.649	288	8045965	465	8045965
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2000"	"2000"	0.662	294	8227303	463	8227303
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2001"	"2001"	0.588	285	8377038	499	8377038
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2002"	"2002"	0.661	318	8508256	511	8508256
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2003"	"2003"	0.622	299	8622793	507	8622793
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2004"	"2004"	0.539	285	8769252	542	8769252
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2005"	"2005"	0.583	312	8925922	549	8925922
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2006"	"2006"	0.602	319	9155813	542	9155813
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2007"	"2007"	0.594	327	9349988	578	9349988
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2008"	"2008"	0.631	362	9504843	594	9504843
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2009"	"2009"	0.613	351	9620846	598	9620846
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2010"	"2010"	0.646	371	9711881	588	9711881
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2011"	"2011"	0.690	407	9802431	596	9802431
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2012"	"2012"	0.613	395	9901430	641	9901430
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2013"	"2013"	0.652	418	9972479	635	9972479
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2014"	"2014"	0.752	480	10067278	625	10067278
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2015"	"2015"	0.678	446	10178447	658	10178447
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2016"	"2016"	0.704	473	10301890	647	10301890
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2017"	"2017"	0.727	458	10410330	623	10410330
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2018"	"2018"	0.761	501	10511131	632	10511131
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"1999"	"1999"	0.560	30	1210300	53	1210300
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2000"	"2000"	0.574	35	1213519	61	1213519
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2001"	"2001"	0.469	33	1225948	68	1225948
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2002"	"2002"	0.684	39	1239613	56	1239613
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2003"	"2003"	0.918	50	1251154	53	1251154
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2004"	"2004"	0.595	34	1273569	56	1273569
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2005"	"2005"	0.698	35	1292729	49	1292729
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2006"	"2006"	0.501	30	1309731	58	1309731
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2007"	"2007"	0.485	30	1315675	57	1315675
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2008"	"2008"	0.442	30	1332213	62	1332213
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2009"	"2009"	0.591	46	1346717	72	1346717
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2010"	"2010"	0.568	37	1363963	60	1363963
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2011"	"2011"	0.710	36	1379329	47	1379329
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2012"	"2012"	0.574	44	1394804	70	1394804
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2013"	"2013"	0.623	48	1408243	72	1408243
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2014"	"2014"	0.712	48	1414538	61	1414538
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2015"	"2015"	0.600	43	1422052	65	1422052
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2016"	"2016"	0.857	62	1427559	71	1427559
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2017"	"2017"	0.614	52	1424393	74	1424393
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2018"	"2018"	0.687	51	1420593	67	1420593
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"1999"	"1999"	0.798	79	1275674	101	1275674
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2000"	"2000"	0.650	67	1299430	104	1299430
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2001"	"2001"	0.739	63	1319962	88	1319962
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2002"	"2002"	0.557	59	1340372	110	1340372
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2003"	"2003"	0.842	82	1363380	100	1363380
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2004"	"2004"	0.708	70	1391802	100	1391802
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2005"	"2005"	0.639	81	1428241	127	1428241
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2006"	"2006"	0.789	78	1468669	98	1468669
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2007"	"2007"	0.609	72	1505105	121	1505105
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2008"	"2008"	0.602	73	1534320	121	1534320
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2009"	"2009"	0.722	75	1554439	103	1554439
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2010"	"2010"	0.736	77	1570746	102	1570746
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2011"	"2011"	0.840	77	1583910	96	1583910
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2012"	"2012"	0.651	83	1595324	123	1595324
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2013"	"2013"	0.656	82	1611206	120	1611206
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2014"	"2014"	0.802	106	1631112	125	1631112
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2015"	"2015"	0.576	98	1651059	160	1651059
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2016"	"2016"	0.773	99	1682380	123	1682380
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2017"	"2017"	0.711	95	1717715	125	1717715
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2018"	"2018"	0.668	100	1750536	140	1750536
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"1999"	"1999"	0.672	527	12359020	791	12359020
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2000"	"2000"	0.656	502	12434161	774	12434161
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2001"	"2001"	0.701	553	12488445	795	12488445
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2002"	"2002"	0.616	467	12525556	763	12525556
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2003"	"2003"	0.627	501	12556006	802	12556006
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2004"	"2004"	0.597	511	12589773	854	12589773
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2005"	"2005"	0.551	445	12609903	811	12609903
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2006"	"2006"	0.572	510	12643955	893	12643955
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2007"	"2007"	0.592	497	12695866	835	12695866
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2008"	"2008"	0.547	501	12747038	896	12747038
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2009"	"2009"	0.665	570	12796778	845	12796778
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2010"	"2010"	0.594	545	12840503	902	12840503
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2011"	"2011"	0.582	550	12867454	914	12867454
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2012"	"2012"	0.689	594	12882510	839	12882510
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2013"	"2013"	0.661	583	12895129	850	12895129
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2014"	"2014"	0.651	612	12884493	891	12884493
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2015"	"2015"	0.640	605	12858913	908	12858913
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2016"	"2016"	0.674	626	12820527	899	12820527
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2017"	"2017"	0.656	611	12778828	876	12778828
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2018"	"2018"	0.643	608	12723071	870	12723071
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"1999"	"1999"	0.674	289	6044969	431	6044969
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2000"	"2000"	0.704	269	6091866	383	6091866
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2001"	"2001"	0.674	291	6127760	432	6127760
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2002"	"2002"	0.697	302	6155967	430	6155967
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2003"	"2003"	0.679	299	6196638	440	6196638
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2004"	"2004"	0.634	288	6233007	450	6233007
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2005"	"2005"	0.634	278	6278616	438	6278616
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2006"	"2006"	0.604	298	6332669	487	6332669
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2007"	"2007"	0.627	314	6379599	488	6379599
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2008"	"2008"	0.644	334	6424806	514	6424806
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2009"	"2009"	0.686	302	6459325	436	6459325
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2010"	"2010"	0.535	278	6490432	502	6490432
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2011"	"2011"	0.653	333	6516528	493	6516528
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2012"	"2012"	0.723	357	6537703	471	6537703
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2013"	"2013"	0.683	324	6568713	476	6568713
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2014"	"2014"	0.665	327	6593644	471	6593644
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2015"	"2015"	0.743	354	6608422	452	6608422
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2016"	"2016"	0.637	350	6634304	509	6634304
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2017"	"2017"	0.714	350	6658078	468	6658078
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2018"	"2018"	0.810	358	6695497	424	6695497
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"1999"	"1999"	0.778	166	2917634	209	2917634
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2000"	"2000"	0.631	148	2929067	225	2929067
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2001"	"2001"	0.648	163	2931997	244	2931997
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2002"	"2002"	0.689	162	2934234	228	2934234
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2003"	"2003"	0.771	181	2941999	225	2941999
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2004"	"2004"	0.662	160	2953635	234	2953635
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2005"	"2005"	0.681	179	2964454	255	2964454
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2006"	"2006"	0.738	176	2982644	233	2982644
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2007"	"2007"	0.677	177	2999212	255	2999212
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2008"	"2008"	0.709	182	3016734	248	3016734
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2009"	"2009"	0.776	204	3032870	253	3032870
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2010"	"2010"	0.757	172	3050745	219	3050745
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2011"	"2011"	0.569	157	3066336	266	3066336
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2012"	"2012"	0.587	171	3076190	270	3076190
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2013"	"2013"	0.817	198	3092997	233	3092997
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2014"	"2014"	0.630	172	3109350	259	3109350
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2015"	"2015"	0.781	200	3120960	245	3120960
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2016"	"2016"	0.766	197	3131371	250	3131371
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2017"	"2017"	0.623	176	3141550	265	3141550
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2018"	"2018"	0.713	190	3148618	253	3148618
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"1999"	"1999"	0.868	140	2678338	160	2678338
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2000"	"2000"	0.655	127	2693681	191	2693681
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2001"	"2001"	0.701	141	2702162	200	2702162
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2002"	"2002"	0.790	155	2713535	193	2713535
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2003"	"2003"	0.714	144	2723004	200	2723004
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2004"	"2004"	0.803	152	2734373	186	2734373
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2005"	"2005"	0.786	156	2745299	193	2745299
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2006"	"2006"	0.829	149	2762931	176	2762931
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2007"	"2007"	0.654	135	2783785	202	2783785
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2008"	"2008"	0.662	146	2808076	215	2808076
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2009"	"2009"	0.843	149	2832704	173	2832704
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2010"	"2010"	0.692	134	2858190	191	2858190
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2011"	"2011"	0.690	177	2869225	247	2869225
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2012"	"2012"	0.777	173	2885257	211	2885257
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2013"	"2013"	0.748	169	2893212	217	2893212
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2014"	"2014"	0.875	170	2900475	188	2900475
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2015"	"2015"	0.741	156	2909011	196	2909011
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2016"	"2016"	0.674	151	2910844	219	2910844
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2017"	"2017"	0.804	170	2908718	199	2908718
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2018"	"2018"	0.888	178	2911359	189	2911359
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"1999"	"1999"	0.682	188	4018053	275	4018053
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2000"	"2000"	0.669	190	4049021	285	4049021
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2001"	"2001"	0.788	203	4068132	255	4068132
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2002"	"2002"	0.692	194	4089875	279	4089875
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2003"	"2003"	0.693	208	4117170	296	4117170
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2004"	"2004"	0.553	169	4146101	305	4146101
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2005"	"2005"	0.608	180	4182742	291	4182742
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2006"	"2006"	0.588	179	4219239	301	4219239
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2007"	"2007"	0.609	222	4256672	358	4256672
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2008"	"2008"	0.655	223	4289878	327	4289878
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2009"	"2009"	0.556	217	4317074	372	4317074
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2010"	"2010"	0.637	231	4348181	349	4348181
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2011"	"2011"	0.601	224	4369821	364	4369821
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2012"	"2012"	0.670	245	4386346	353	4386346
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2013"	"2013"	0.579	232	4404659	373	4404659
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2014"	"2014"	0.623	237	4414349	357	4414349
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2015"	"2015"	0.602	246	4425976	385	4425976
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2016"	"2016"	0.780	292	4438182	357	4438182
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2017"	"2017"	0.612	246	4452268	375	4452268
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2018"	"2018"	0.697	265	4461153	353	4461153
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"1999"	"1999"	0.718	182	4460811	260	4460811
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2000"	"2000"	0.619	164	4471885	268	4471885
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2001"	"2001"	0.798	199	4477875	255	4477875
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2002"	"2002"	0.752	179	4497267	240	4497267
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2003"	"2003"	0.766	214	4521042	284	4521042
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2004"	"2004"	0.743	193	4552238	261	4552238
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2005"	"2005"	0.870	221	4411396	255	4411396
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2006"	"2006"	0.725	196	4302665	272	4302665
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2007"	"2007"	0.762	196	4375581	262	4375581
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2008"	"2008"	0.729	196	4435586	269	4435586
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2009"	"2009"	0.730	198	4491648	269	4491648
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2010"	"2010"	0.701	197	4544532	272	4544532
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2011"	"2011"	0.700	191	4575625	261	4575625
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2012"	"2012"	0.683	225	4600972	326	4600972
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2013"	"2013"	0.730	223	4624527	298	4624527
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2014"	"2014"	0.717	203	4644013	280	4644013
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2015"	"2015"	0.759	243	4664628	307	4664628
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2016"	"2016"	0.677	212	4678135	295	4678135
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2017"	"2017"	0.752	252	4670560	314	4670560
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2018"	"2018"	0.733	218	4659690	288	4659690
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"1999"	"1999"	0.690	77	1266808	109	1266808
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2000"	"2000"	0.540	71	1277072	125	1277072
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2001"	"2001"	0.761	69	1285692	90	1285692
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2002"	"2002"	0.623	77	1295960	120	1295960
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2003"	"2003"	0.631	68	1306513	104	1306513
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2004"	"2004"	0.544	79	1313688	137	1313688
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2005"	"2005"	0.701	80	1318787	110	1318787
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2006"	"2006"	0.610	77	1323619	118	1323619
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2007"	"2007"	0.642	69	1327040	107	1327040
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2008"	"2008"	0.689	85	1330509	116	1330509
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2009"	"2009"	0.660	92	1329590	126	1329590
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2010"	"2010"	0.639	85	1327629	121	1327629
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2011"	"2011"	0.669	81	1328284	109	1328284
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2012"	"2012"	0.610	82	1327729	122	1327729
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2013"	"2013"	0.636	80	1328009	115	1328009
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2014"	"2014"	0.821	106	1330513	113	1330513
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2015"	"2015"	0.632	90	1328262	129	1328262
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2016"	"2016"	0.592	93	1331317	141	1331317
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2017"	"2017"	0.613	96	1334612	133	1334612
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2018"	"2018"	0.788	112	1339057	120	1339057
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"1999"	"1999"	0.576	197	5254509	350	5254509
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2000"	"2000"	0.578	207	5311034	358	5311034
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2001"	"2001"	0.744	222	5374691	299	5374691
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2002"	"2002"	0.542	207	5440389	381	5440389
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2003"	"2003"	0.616	234	5496269	377	5496269
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2004"	"2004"	0.675	236	5546935	356	5546935
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2005"	"2005"	0.611	194	5592379	321	5592379
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2006"	"2006"	0.556	208	5627367	368	5627367
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2007"	"2007"	0.560	223	5653408	395	5653408
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2008"	"2008"	0.569	225	5684965	385	5684965
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2009"	"2009"	0.627	244	5730388	379	5730388
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2010"	"2010"	0.610	244	5788645	395	5788645
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2011"	"2011"	0.610	245	5839419	389	5839419
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2012"	"2012"	0.594	256	5886992	416	5886992
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2013"	"2013"	0.658	278	5923188	415	5923188
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2014"	"2014"	0.652	271	5957283	396	5957283
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2015"	"2015"	0.717	285	5985562	376	5985562
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2016"	"2016"	0.602	266	6003323	419	6003323
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2017"	"2017"	0.661	278	6023868	409	6023868
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2018"	"2018"	0.749	287	6035802	372	6035802
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"1999"	"1999"	0.648	305	6317345	465	6317345
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2000"	"2000"	0.585	310	6361104	526	6361104
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2001"	"2001"	0.562	267	6397634	467	6397634
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2002"	"2002"	0.611	288	6417206	464	6417206
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2003"	"2003"	0.584	292	6422565	492	6422565
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2004"	"2004"	0.559	274	6412281	476	6412281
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2005"	"2005"	0.564	285	6403290	485	6403290
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2006"	"2006"	0.567	297	6410084	505	6410084
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2007"	"2007"	0.537	296	6431559	526	6431559
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2008"	"2008"	0.553	293	6468967	519	6468967
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2009"	"2009"	0.712	346	6517613	468	6517613
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2010"	"2010"	0.548	288	6566307	489	6566307
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2011"	"2011"	0.617	326	6613583	494	6613583
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2012"	"2012"	0.661	317	6663005	473	6663005
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2013"	"2013"	0.565	334	6713315	552	6713315
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2014"	"2014"	0.662	348	6762596	481	6762596
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2015"	"2015"	0.693	383	6794228	527	6794228
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2016"	"2016"	0.665	395	6823608	565	6823608
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2017"	"2017"	0.671	397	6859789	543	6859789
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2018"	"2018"	0.623	376	6882635	562	6882635
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"1999"	"1999"	0.593	436	9897116	736	9897116
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2000"	"2000"	0.707	499	9952450	708	9952450
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2001"	"2001"	0.674	478	9991120	711	9991120
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2002"	"2002"	0.657	487	10015710	739	10015710
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2003"	"2003"	0.669	476	10041152	706	10041152
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2004"	"2004"	0.618	473	10055315	759	10055315
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2005"	"2005"	0.638	505	10051137	781	10051137
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2006"	"2006"	0.673	499	10036081	726	10036081
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2007"	"2007"	0.618	502	10001284	800	10001284
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2008"	"2008"	0.682	567	9946889	803	9946889
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2009"	"2009"	0.704	529	9901591	729	9901591
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2010"	"2010"	0.715	532	9877510	725	9877510
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2011"	"2011"	0.661	515	9882412	743	9882412
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2012"	"2012"	0.710	553	9897145	738	9897145
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2013"	"2013"	0.697	522	9913065	696	9913065
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2014"	"2014"	0.701	551	9929848	740	9929848
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2015"	"2015"	0.718	553	9931715	735	9931715
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2016"	"2016"	0.719	601	9950571	768	9950571
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2017"	"2017"	0.723	566	9973114	710	9973114
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2018"	"2018"	0.703	566	9984072	740	9984072
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"1999"	"1999"	0.708	243	4873481	345	4873481
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2000"	"2000"	0.860	261	4933692	305	4933692
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2001"	"2001"	0.759	249	4982796	329	4982796
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2002"	"2002"	0.638	234	5018935	366	5018935
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2003"	"2003"	0.768	240	5053572	312	5053572
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2004"	"2004"	0.669	228	5087713	336	5087713
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2005"	"2005"	0.717	202	5119598	283	5119598
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2006"	"2006"	0.581	211	5163555	358	5163555
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2007"	"2007"	0.785	261	5207203	327	5207203
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2008"	"2008"	0.657	243	5247018	358	5247018
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2009"	"2009"	0.675	248	5281203	361	5281203
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2010"	"2010"	0.717	268	5310828	353	5310828
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2011"	"2011"	0.651	264	5346143	393	5346143
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2012"	"2012"	0.598	273	5376643	441	5376643
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2013"	"2013"	0.636	259	5413479	395	5413479
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2014"	"2014"	0.626	286	5451079	438	5451079
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2015"	"2015"	0.657	316	5482032	458	5482032
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2016"	"2016"	0.673	304	5522744	424	5522744
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2017"	"2017"	0.685	307	5566230	424	5566230
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2018"	"2018"	0.707	320	5606249	430	5606249
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2003"	"2003"	0.834	142	2868312	172	2868312
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2004"	"2004"	0.786	143	2889010	182	2889010
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2005"	"2005"	0.844	160	2876229	189	2876229
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2006"	"2006"	0.715	125	2904978	175	2904978
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2007"	"2007"	0.645	133	2928350	205	2928350
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2008"	"2008"	0.749	138	2947806	188	2947806
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2009"	"2009"	0.802	137	2958774	166	2958774
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2010"	"2010"	0.661	139	2970548	205	2970548
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2011"	"2011"	0.728	150	2978731	200	2978731
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2012"	"2012"	0.778	167	2983816	211	2983816
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2013"	"2013"	0.889	173	2988711	189	2988711
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2014"	"2014"	0.843	193	2990468	218	2990468
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2015"	"2015"	1.026 (Unreliable)	181	2988471	172	2988471
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2016"	"2016"	0.783	166	2987938	202	2987938
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2017"	"2017"	0.715	156	2988510	197	2988510
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2018"	"2018"	0.960	177	2981020	179	2981020
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"1999"	"1999"	0.699	288	5561948	409	5561948
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2000"	"2000"	0.695	286	5607285	408	5607285
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2001"	"2001"	0.666	265	5641142	390	5641142
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2002"	"2002"	0.629	267	5674825	418	5674825
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2003"	"2003"	0.675	268	5709403	393	5709403
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2004"	"2004"	0.663	286	5747741	423	5747741
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2005"	"2005"	0.635	287	5790300	439	5790300
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2006"	"2006"	0.622	265	5842704	415	5842704
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2007"	"2007"	0.625	296	5887612	459	5887612
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2008"	"2008"	0.683	307	5923916	435	5923916
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2009"	"2009"	0.655	313	5961088	466	5961088
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2010"	"2010"	0.648	292	5995974	431	5995974
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2011"	"2011"	0.666	288	6010275	420	6010275
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2012"	"2012"	0.647	315	6024367	465	6024367
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2013"	"2013"	0.674	306	6040715	429	6040715
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2014"	"2014"	0.607	313	6056202	478	6056202
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2015"	"2015"	0.592	293	6071732	455	6071732
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2016"	"2016"	0.697	344	6087135	462	6087135
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2017"	"2017"	0.651	340	6106670	481	6106670
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2018"	"2018"	0.708	327	6121623	431	6121623
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"1999"	"1999"	0.798	48	897507	59	897507
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2000"	"2000"	0.747	53	903773	70	903773
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2001"	"2001"	0.662	40	906961	60	906961
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2002"	"2002"	0.502	46	911667	88	911667
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2003"	"2003"	0.753	55	919630	73	919630
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2004"	"2004"	0.591	47	930009	78	930009
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2005"	"2005"	0.592	54	940102	86	940102
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2006"	"2006"	0.633	49	952692	75	952692
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2007"	"2007"	0.817	55	964706	66	964706
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2008"	"2008"	0.584	51	976415	79	976415
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2009"	"2009"	0.515	39	983982	76	983982
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2010"	"2010"	0.596	56	990697	88	990697
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2011"	"2011"	0.715	67	997316	89	997316
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2012"	"2012"	0.576	58	1003783	85	1003783
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2013"	"2013"	0.536	53	1013569	89	1013569
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2014"	"2014"	0.596	60	1021869	91	1021869
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2015"	"2015"	0.741	72	1030475	98	1030475
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2016"	"2016"	0.603	63	1040859	92	1040859
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2017"	"2017"	0.735	64	1052482	80	1052482
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2018"	"2018"	0.693	66	1060665	90	1060665
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"1999"	"1999"	0.738	96	1704764	129	1704764
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2000"	"2000"	0.814	101	1713820	123	1713820
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2001"	"2001"	0.626	86	1719836	135	1719836
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2002"	"2002"	0.688	89	1728292	128	1728292
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2003"	"2003"	0.722	82	1738643	110	1738643
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2004"	"2004"	0.753	96	1749370	124	1749370
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2005"	"2005"	0.635	90	1761497	141	1761497
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2006"	"2006"	0.577	80	1772693	131	1772693
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2007"	"2007"	0.749	104	1783440	137	1783440
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2008"	"2008"	0.729	104	1796378	139	1796378
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2009"	"2009"	0.692	97	1812683	137	1812683
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2010"	"2010"	0.560	88	1829542	150	1829542
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2011"	"2011"	0.701	116	1840672	160	1840672
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2012"	"2012"	0.688	97	1853303	136	1853303
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2013"	"2013"	0.792	110	1865279	138	1865279
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2014"	"2014"	0.691	104	1879321	146	1879321
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2015"	"2015"	0.741	109	1891277	138	1891277
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2016"	"2016"	0.729	107	1905616	139	1905616
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2017"	"2017"	0.637	110	1915947	166	1915947
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2018"	"2018"	0.716	111	1925614	145	1925614
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"1999"	"1999"	0.652	81	1934718	126	1934718
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2000"	"2000"	0.749	85	2018741	117	2018741
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2001"	"2001"	0.588	71	2098399	122	2098399
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2002"	"2002"	0.576	79	2173791	144	2173791
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2003"	"2003"	0.669	98	2248850	152	2248850
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2004"	"2004"	0.577	94	2346222	164	2346222
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2005"	"2005"	0.671	99	2432143	149	2432143
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2006"	"2006"	0.678	110	2522658	168	2522658
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2007"	"2007"	0.614	100	2601072	162	2601072
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2008"	"2008"	0.713	112	2653630	160	2653630
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2009"	"2009"	0.694	96	2684665	138	2684665
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2010"	"2010"	0.684	110	2702405	164	2702405
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2011"	"2011"	0.737	123	2712730	168	2712730
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2012"	"2012"	0.769	128	2743996	166	2743996
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2013"	"2013"	0.604	113	2775970	188	2775970
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2014"	"2014"	0.770	141	2817628	183	2817628
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2015"	"2015"	0.655	144	2866939	209	2866939
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2016"	"2016"	0.725	164	2917563	216	2917563
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2017"	"2017"	0.762	173	2969905	218	2969905
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"1999"	"1999"	0.726	62	1222014	85	1222014
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2000"	"2000"	0.635	57	1239882	89	1239882
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2001"	"2001"	0.628	63	1255517	100	1255517
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2002"	"2002"	0.822	71	1269089	86	1269089
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2003"	"2003"	0.534	53	1279840	97	1279840
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2004"	"2004"	0.652	72	1290121	108	1290121
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2005"	"2005"	0.649	66	1298492	101	1298492
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2006"	"2006"	0.708	71	1308389	99	1308389
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2007"	"2007"	0.634	62	1312540	102	1312540
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2008"	"2008"	0.632	69	1315906	99	1315906
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2009"	"2009"	0.511	70	1316102	129	1316102
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2010"	"2010"	0.625	79	1316762	118	1316762
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2011"	"2011"	0.559	74	1320202	118	1320202
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2012"	"2012"	0.670	73	1324232	103	1324232
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2013"	"2013"	0.617	67	1326622	107	1326622
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2014"	"2014"	0.657	89	1333341	117	1333341
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2015"	"2015"	0.643	75	1336350	111	1336350
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2016"	"2016"	0.739	93	1342307	120	1342307
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2017"	"2017"	0.565	77	1348787	131	1348787
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2018"	"2018"	0.693	82	1353465	109	1353465
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"1999"	"1999"	0.550	349	8359592	631	8359592
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2000"	"2000"	0.520	339	8430621	643	8430621
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2001"	"2001"	0.508	326	8492671	636	8492671
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2002"	"2002"	0.539	323	8552643	590	8552643
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2003"	"2003"	0.457	313	8601402	675	8601402
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2004"	"2004"	0.519	356	8634561	679	8634561
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2005"	"2005"	0.523	349	8651974	654	8651974
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2006"	"2006"	0.478	325	8661679	665	8661679
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2007"	"2007"	0.534	363	8677885	663	8677885
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2008"	"2008"	0.485	330	8711090	661	8711090
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2009"	"2009"	0.509	353	8755602	664	8755602
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2010"	"2010"	0.506	364	8799446	695	8799446
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2011"	"2011"	0.572	379	8828117	641	8828117
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2012"	"2012"	0.526	395	8844942	702	8844942
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2013"	"2013"	0.497	364	8856972	703	8856972
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2014"	"2014"	0.610	449	8864525	692	8864525
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2015"	"2015"	0.602	420	8867949	663	8867949
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2016"	"2016"	0.637	464	8870827	673	8870827
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2017"	"2017"	0.635	460	8885525	673	8885525
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2018"	"2018"	0.614	454	8886025	692	8886025
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"1999"	"1999"	0.563	68	1808082	123	1808082
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2000"	"2000"	0.560	57	1821204	103	1821204
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2001"	"2001"	0.797	71	1831690	89	1831690
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2002"	"2002"	0.580	62	1855309	108	1855309
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2003"	"2003"	0.790	73	1877574	92	1877574
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2004"	"2004"	0.641	78	1903808	124	1903808
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2005"	"2005"	0.587	70	1932274	117	1932274
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2006"	"2006"	0.632	75	1962137	121	1962137
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2007"	"2007"	0.545	65	1990070	113	1990070
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2008"	"2008"	0.728	94	2010662	125	2010662
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2009"	"2009"	0.566	71	2036802	124	2036802
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2010"	"2010"	0.740	86	2064552	116	2064552
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2011"	"2011"	0.769	88	2080450	112	2080450
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2012"	"2012"	0.606	80	2087309	131	2087309
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2013"	"2013"	0.667	77	2092273	109	2092273
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2014"	"2014"	0.706	89	2089568	122	2089568
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2015"	"2015"	0.712	99	2089291	135	2089291
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2016"	"2016"	0.638	89	2091630	132	2091630
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2017"	"2017"	0.808	113	2091784	135	2091784
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2018"	"2018"	0.719	92	2092741	116	2092741
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"1999"	"1999"	0.581	761	18882725	1308	18882725
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2000"	"2000"	0.491	712	19001780	1438	19001780
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2001"	"2001"	0.517	709	19082838	1363	19082838
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2002"	"2002"	0.550	761	19137800	1370	19137800
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2003"	"2003"	0.504	707	19175939	1387	19175939
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2004"	"2004"	0.554	749	19171567	1331	19171567
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2005"	"2005"	0.557	785	19132610	1383	19132610
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2006"	"2006"	0.537	753	19104631	1366	19104631
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2007"	"2007"	0.560	765	19132335	1318	19132335
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2008"	"2008"	0.521	739	19212436	1367	19212436
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2009"	"2009"	0.568	819	19307066	1399	19307066
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2010"	"2010"	0.577	808	19399878	1346	19399878
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2011"	"2011"	0.553	783	19499241	1354	19499241
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2012"	"2012"	0.589	863	19572932	1400	19572932
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2013"	"2013"	0.560	840	19624447	1401	19624447
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2014"	"2014"	0.570	894	19651049	1480	19651049
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2015"	"2015"	0.565	862	19654666	1433	19654666
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2016"	"2016"	0.614	926	19633428	1423	19633428
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2017"	"2017"	0.570	922	19589572	1503	19589572
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2018"	"2018"	0.650	946	19530351	1381	19530351
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"1999"	"1999"	0.703	372	7949361	530	7949361
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2000"	"2000"	0.741	378	8081614	515	8081614
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2001"	"2001"	0.673	346	8210122	519	8210122
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2002"	"2002"	0.682	381	8326201	563	8326201
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2003"	"2003"	0.702	392	8422501	558	8422501
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2004"	"2004"	0.629	370	8553152	587	8553152
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2005"	"2005"	0.557	360	8705407	641	8705407
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2006"	"2006"	0.527	351	8917270	660	8917270
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2007"	"2007"	0.615	385	9118037	611	9118037
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2008"	"2008"	0.673	405	9309449	603	9309449
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2009"	"2009"	0.571	392	9449566	683	9449566
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2010"	"2010"	0.617	445	9574323	712	9574323
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2011"	"2011"	0.638	461	9657592	703	9657592
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2012"	"2012"	0.704	494	9749476	685	9749476
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2013"	"2013"	0.684	509	9843336	719	9843336
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2014"	"2014"	0.698	485	9932887	664	9932887
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2015"	"2015"	0.641	487	10031646	733	10031646
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2016"	"2016"	0.635	484	10154788	720	10154788
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2017"	"2017"	0.712	517	10268233	690	10268233
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2018"	"2018"	0.673	510	10381615	719	10381615
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"1999"	"1999"	0.977	39	644259	40	644259
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2000"	"2000"	0.562	24	642023	40	642023
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2001"	"2001"	0.802	41	639062	50	639062
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2002"	"2002"	0.843	38	638168	43	638168
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2003"	"2003"	0.582	27	638817	44	638817
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2004"	"2004"	0.576	27	644705	47	644705
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2005"	"2005"	0.563	35	646089	60	646089
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2006"	"2006"	1.350 (Unreliable)	44	649422	32	649422
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2007"	"2007"	0.640	32	652822	47	652822
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2008"	"2008"	0.631	27	657569	42	657569
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2009"	"2009"	0.837	36	664968	45	664968
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2010"	"2010"	0.574	23	674715	41	674715
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2011"	"2011"	0.719	29	685225	41	685225
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2012"	"2012"	0.579	31	701176	53	701176
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2013"	"2013"	0.765	45	722036	58	722036
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2014"	"2014"	0.681	40	737401	54	737401
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2015"	"2015"	0.709	36	754066	47	754066
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2016"	"2016"	0.558	29	754434	47	754434
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2017"	"2017"	0.698	36	754942	52	754942
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2018"	"2018"	0.773	39	758080	49	758080
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"1999"	"1999"	0.678	555	11335454	812	11335454
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2000"	"2000"	0.658	518	11363543	780	11363543
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2001"	"2001"	0.631	530	11387404	830	11387404
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2002"	"2002"	0.646	542	11407889	829	11407889
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2003"	"2003"	0.656	544	11434788	813	11434788
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2004"	"2004"	0.655	551	11452251	824	11452251
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2005"	"2005"	0.572	529	11463320	908	11463320
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2006"	"2006"	0.596	555	11481213	897	11481213
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2007"	"2007"	0.614	532	11500468	834	11500468
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2008"	"2008"	0.606	598	11515391	956	11515391
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2009"	"2009"	0.599	580	11528896	936	11528896
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2010"	"2010"	0.667	599	11539336	867	11539336
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2011"	"2011"	0.627	550	11544663	830	11544663
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2012"	"2012"	0.673	606	11548923	858	11548923
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2013"	"2013"	0.600	618	11576684	983	11576684
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2014"	"2014"	0.651	630	11602700	899	11602700
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2015"	"2015"	0.646	638	11617527	920	11617527
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2016"	"2016"	0.673	684	11634370	935	11634370
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2017"	"2017"	0.674	693	11659650	959	11659650
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2018"	"2018"	0.672	659	11676341	904	11676341
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"1999"	"1999"	0.661	166	3437147	250	3437147
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2000"	"2000"	0.745	184	3454365	245	3454365
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2001"	"2001"	0.645	164	3467100	250	3467100
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2002"	"2002"	0.691	186	3489080	267	3489080
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2003"	"2003"	0.717	190	3504892	263	3504892
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2004"	"2004"	0.613	168	3525233	269	3525233
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2005"	"2005"	0.699	183	3548597	260	3548597
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2006"	"2006"	0.562	164	3594090	283	3594090
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2007"	"2007"	0.589	173	3634349	292	3634349
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2008"	"2008"	0.852	208	3668976	240	3668976
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2009"	"2009"	0.583	169	3717572	282	3717572
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2010"	"2010"	0.723	194	3759944	258	3759944
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2011"	"2011"	0.845	217	3788379	251	3788379
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2012"	"2012"	0.619	178	3818814	275	3818814
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2013"	"2013"	0.631	184	3853214	287	3853214
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2014"	"2014"	0.701	205	3878187	286	3878187
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2015"	"2015"	0.727	222	3909500	295	3909500
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2016"	"2016"	0.815	228	3926331	273	3926331
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2017"	"2017"	0.755	215	3931316	270	3931316
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2018"	"2018"	0.827	237	3940235	281	3940235
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"1999"	"1999"	0.662	155	3393941	232	3393941
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2000"	"2000"	0.626	171	3429708	271	3429708
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2001"	"2001"	0.679	174	3467937	254	3467937
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2002"	"2002"	0.829	223	3513424	265	3513424
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2003"	"2003"	0.693	199	3547376	283	3547376
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2004"	"2004"	0.684	205	3569463	285	3569463
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2005"	"2005"	0.826	235	3613202	279	3613202
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2006"	"2006"	0.566	179	3670883	305	3670883
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2007"	"2007"	0.658	210	3722417	309	3722417
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2008"	"2008"	0.602	202	3768748	317	3768748
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2009"	"2009"	0.721	230	3808600	313	3808600
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2010"	"2010"	0.666	199	3837491	295	3837491
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2011"	"2011"	0.620	220	3872036	332	3872036
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2012"	"2012"	0.653	230	3899001	335	3899001
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2013"	"2013"	0.677	251	3922468	354	3922468
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2014"	"2014"	0.736	257	3963244	338	3963244
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2015"	"2015"	0.701	249	4015792	323	4015792
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2016"	"2016"	0.578	211	4089976	331	4089976
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2017"	"2017"	0.675	246	4143625	330	4143625
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2018"	"2018"	0.799	259	4181886	303	4181886
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"1999"	"1999"	0.669	619	12263805	893	12263805
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2000"	"2000"	0.589	574	12284173	946	12284173
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2001"	"2001"	0.641	614	12298970	910	12298970
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2002"	"2002"	0.558	565	12331031	970	12331031
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2003"	"2003"	0.603	596	12374658	943	12374658
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2004"	"2004"	0.573	606	12410722	1004	12410722
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2005"	"2005"	0.558	577	12449990	985	12449990
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2006"	"2006"	0.534	577	12510809	1018	12510809
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2007"	"2007"	0.541	601	12563937	1060	12563937
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2008"	"2008"	0.531	585	12612285	1047	12612285
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2009"	"2009"	0.618	668	12666858	1011	12666858
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2010"	"2010"	0.566	655	12711160	1051	12711160
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2011"	"2011"	0.563	625	12745815	1036	12745815
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2012"	"2012"	0.576	650	12767118	1059	12767118
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2013"	"2013"	0.590	693	12776309	1084	12776309
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2014"	"2014"	0.593	677	12788313	1042	12788313
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2015"	"2015"	0.639	724	12784826	1040	12784826
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2016"	"2016"	0.657	770	12782275	1087	12782275
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2017"	"2017"	0.603	732	12787641	1108	12787641
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2018"	"2018"	0.701	778	12800922	1000	12800922
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"1999"	"1999"	0.652	65	1040402	98	1040402
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2000"	"2000"	0.731	66	1050268	87	1050268
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2001"	"2001"	0.675	44	1057142	64	1057142
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2002"	"2002"	0.682	58	1065995	83	1065995
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2003"	"2003"	0.577	60	1071342	103	1071342
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2004"	"2004"	0.557	58	1074579	99	1074579
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2005"	"2005"	0.726	65	1067916	86	1067916
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2006"	"2006"	0.601	50	1063096	81	1063096
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2007"	"2007"	0.513	39	1057315	70	1057315
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2008"	"2008"	0.604	50	1055003	80	1055003
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2009"	"2009"	0.754	48	1053646	60	1053646
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2010"	"2010"	0.656	54	1053959	82	1053959
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2011"	"2011"	0.402	38	1053649	87	1053649
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2012"	"2012"	0.803	63	1054621	72	1054621
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2013"	"2013"	0.720	46	1055081	62	1055081
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2014"	"2014"	0.663	66	1055936	93	1055936
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2015"	"2015"	0.686	58	1056065	83	1056065
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2016"	"2016"	0.750	64	1056770	85	1056770
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2017"	"2017"	0.707	72	1055673	87	1055673
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2018"	"2018"	0.655	58	1058287	82	1058287
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"1999"	"1999"	0.833	217	3974682	264	3974682
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2000"	"2000"	0.851	199	4024223	236	4024223
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2001"	"2001"	0.639	160	4064995	250	4064995
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2002"	"2002"	0.695	198	4107795	283	4107795
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2003"	"2003"	0.698	191	4150297	271	4150297
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2004"	"2004"	0.688	198	4210921	287	4210921
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2005"	"2005"	0.632	198	4270150	308	4270150
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2006"	"2006"	0.614	199	4357847	324	4357847
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2007"	"2007"	0.629	208	4444110	324	4444110
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2008"	"2008"	0.678	213	4528996	307	4528996
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2009"	"2009"	0.680	209	4589872	298	4589872
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2010"	"2010"	0.628	218	4635649	346	4635649
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2011"	"2011"	0.689	241	4671994	339	4671994
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2012"	"2012"	0.715	236	4717354	324	4717354
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2013"	"2013"	0.646	230	4764080	337	4764080
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2014"	"2014"	0.721	270	4823617	358	4823617
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2015"	"2015"	0.643	254	4891938	365	4891938
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2016"	"2016"	0.830	298	4957968	345	4957968
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2017"	"2017"	0.751	295	5021268	385	5021268
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2018"	"2018"	0.819	306	5084156	347	5084156
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2001"	"2001"	0.810	39	757972	48	757972
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2002"	"2002"	0.740	46	760020	61	760020
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2003"	"2003"	0.737	51	763729	66	763729
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2004"	"2004"	0.739	49	770396	64	770396
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2005"	"2005"	0.730	34	775493	45	775493
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2006"	"2006"	0.784	36	783033	46	783033
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2007"	"2007"	0.666	45	791623	67	791623
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2008"	"2008"	0.673	42	799124	62	799124
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2009"	"2009"	1.009 (Unreliable)	53	807067	52	807067
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2010"	"2010"	1.000 (Unreliable)	55	816166	50	816166
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2011"	"2011"	0.575	52	823579	85	823579
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2012"	"2012"	0.729	52	833566	65	833566
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2013"	"2013"	0.741	53	842316	66	842316
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2014"	"2014"	0.708	52	849129	71	849129
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2015"	"2015"	0.902	55	853988	59	853988
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2016"	"2016"	0.713	52	862996	67	862996
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2017"	"2017"	0.931	59	872868	58	872868
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2018"	"2018"	1.036 (Unreliable)	49	878698	45	878698
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"1999"	"1999"	0.916	281	5638706	308	5638706
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2000"	"2000"	0.854	292	5703719	343	5703719
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2001"	"2001"	0.781	298	5750789	383	5750789
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2002"	"2002"	0.897	341	5795918	377	5795918
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2003"	"2003"	0.858	346	5847812	406	5847812
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2004"	"2004"	0.811	356	5910809	431	5910809
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2005"	"2005"	0.825	331	5991057	401	5991057
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2006"	"2006"	0.750	329	6088766	427	6088766
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2007"	"2007"	0.646	293	6175727	445	6175727
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2008"	"2008"	0.640	319	6247411	485	6247411
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2009"	"2009"	0.716	372	6306019	505	6306019
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2010"	"2010"	0.675	315	6355311	448	6355311
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2011"	"2011"	0.665	322	6399291	474	6399291
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2012"	"2012"	0.707	334	6453898	459	6453898
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2013"	"2013"	0.794	387	6494340	469	6494340
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2014"	"2014"	0.781	381	6541223	458	6541223
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2015"	"2015"	0.666	318	6591170	459	6591170
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2016"	"2016"	0.727	364	6646010	480	6646010
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2017"	"2017"	0.746	405	6708799	511	6708799
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2018"	"2018"	0.710	384	6771631	507	6771631
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"1999"	"1999"	0.685	847	20558220	1308	20558220
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2000"	"2000"	0.659	844	20944499	1349	20944499
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2001"	"2001"	0.657	867	21319622	1393	21319622
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2002"	"2002"	0.656	896	21690325	1429	21690325
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2003"	"2003"	0.628	872	22030931	1451	22030931
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2004"	"2004"	0.612	836	22394023	1430	22394023
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2005"	"2005"	0.652	893	22773020	1430	22773020
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2006"	"2006"	0.619	893	23359580	1511	23359580
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2007"	"2007"	0.594	871	23831983	1524	23831983
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2008"	"2008"	0.585	882	24309039	1572	24309039
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2009"	"2009"	0.622	951	24801761	1591	24801761
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2010"	"2010"	0.625	927	25241971	1546	25241971
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2011"	"2011"	0.574	932	25645629	1662	25645629
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2012"	"2012"	0.649	1041	26084481	1628	26084481
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2013"	"2013"	0.639	1080	26480266	1717	26480266
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2014"	"2014"	0.656	1090	26964333	1678	26964333
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2015"	"2015"	0.681	1140	27470056	1717	27470056
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2016"	"2016"	0.670	1197	27914410	1799	27914410
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2017"	"2017"	0.686	1169	28295273	1706	28295273
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2018"	"2018"	0.721	1209	28628666	1670	28628666
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"1999"	"1999"	0.793	85	2203482	122	2203482
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2000"	"2000"	0.674	82	2244502	131	2244502
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2001"	"2001"	0.622	72	2283715	132	2283715
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2002"	"2002"	0.639	86	2324815	150	2324815
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2003"	"2003"	0.682	86	2360137	142	2360137
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2004"	"2004"	0.570	80	2401580	160	2401580
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2005"	"2005"	0.571	88	2457719	171	2457719
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2006"	"2006"	0.752	108	2525507	160	2525507
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2007"	"2007"	0.646	91	2597746	155	2597746
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2008"	"2008"	0.646	101	2663029	173	2663029
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2009"	"2009"	0.626	92	2723421	166	2723421
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2010"	"2010"	0.494	82	2775332	180	2775332
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2011"	"2011"	0.580	110	2814384	202	2814384
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2012"	"2012"	0.700	113	2853375	165	2853375
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2013"	"2013"	0.680	120	2897640	180	2897640
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2014"	"2014"	0.662	118	2936879	189	2936879
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2015"	"2015"	0.670	124	2981835	195	2981835
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2016"	"2016"	0.752	124	3041868	178	3041868
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2017"	"2017"	0.663	126	3101042	202	3101042
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2018"	"2018"	0.656	131	3153550	208	3153550
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"1999"	"1999"	0.514	23	604683	44	604683
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2000"	"2000"	0.608	26	609618	42	609618
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2001"	"2001"	0.507	26	612223	50	612223
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2002"	"2002"	0.667	31	615442	45	615442
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2003"	"2003"	0.770	30	617858	39	617858
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2004"	"2004"	0.646	27	619920	41	619920
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2005"	"2005"	0.514	31	621215	56	621215
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2006"	"2006"	0.573	34	622892	57	622892
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2007"	"2007"	0.543	34	623481	59	623481
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2008"	"2008"	0.684	33	624151	51	624151
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2009"	"2009"	0.385	26	624817	66	624817
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2010"	"2010"	0.732	46	625879	57	625879
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2011"	"2011"	0.673	42	627049	58	627049
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2012"	"2012"	0.977	45	626090	45	626090
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2013"	"2013"	0.850	48	626210	51	626210
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2014"	"2014"	0.606	37	625214	55	625214
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2015"	"2015"	1.172 (Unreliable)	48	625216	41	625216
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2016"	"2016"	0.667	34	623657	46	623657
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2017"	"2017"	0.780	61	624344	70	624344
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2018"	"2018"	0.791	42	624358	45	624358
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"1999"	"1999"	0.651	286	7000174	446	7000174
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2000"	"2000"	0.690	279	7105817	413	7105817
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2001"	"2001"	0.844	300	7198362	360	7198362
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2002"	"2002"	0.708	265	7286873	381	7286873
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2003"	"2003"	0.580	276	7366977	477	7366977
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2004"	"2004"	0.599	292	7475575	490	7475575
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2005"	"2005"	0.648	310	7577105	484	7577105
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2006"	"2006"	0.586	272	7673725	468	7673725
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2007"	"2007"	0.621	303	7751000	480	7751000
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2008"	"2008"	0.612	316	7833496	518	7833496
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2009"	"2009"	0.542	316	7925937	570	7925937
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2010"	"2010"	0.638	356	8023699	544	8023699
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2011"	"2011"	0.658	340	8101155	499	8101155
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2012"	"2012"	0.604	357	8185080	566	8185080
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2013"	"2013"	0.682	357	8252427	510	8252427
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2014"	"2014"	0.638	379	8310993	573	8310993
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2015"	"2015"	0.728	389	8361808	513	8361808
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2016"	"2016"	0.710	420	8410106	572	8410106
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2017"	"2017"	0.660	415	8463587	600	8463587
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2018"	"2018"	0.802	445	8501286	523	8501286
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"1999"	"1999"	0.709	336	5842564	483	5842564
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2000"	"2000"	0.768	322	5910512	429	5910512
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2001"	"2001"	0.779	331	5985722	428	5985722
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2002"	"2002"	0.686	323	6052349	475	6052349
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2003"	"2003"	0.737	342	6104115	467	6104115
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2004"	"2004"	0.727	335	6178645	468	6178645
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2005"	"2005"	0.714	347	6257305	479	6257305
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2006"	"2006"	0.756	333	6370753	436	6370753
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2007"	"2007"	0.671	316	6461587	468	6461587
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2008"	"2008"	0.731	365	6562231	501	6562231
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2009"	"2009"	0.648	346	6667426	530	6667426
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2010"	"2010"	0.685	378	6742830	546	6742830
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2011"	"2011"	0.689	382	6826627	534	6826627
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2012"	"2012"	0.692	386	6897058	546	6897058
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2013"	"2013"	0.657	374	6963985	554	6963985
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2014"	"2014"	0.648	378	7054655	547	7054655
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2015"	"2015"	0.615	397	7163657	610	7163657
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2016"	"2016"	0.759	428	7294771	537	7294771
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2017"	"2017"	0.726	433	7423362	561	7423362
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2018"	"2018"	0.700	433	7523869	601	7523869
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"1999"	"1999"	0.630	90	1811799	135	1811799
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2000"	"2000"	0.516	75	1807021	138	1807021
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2001"	"2001"	0.623	95	1801481	147	1801481
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2002"	"2002"	0.654	100	1805414	145	1805414
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2003"	"2003"	0.531	89	1812295	163	1812295
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2004"	"2004"	0.589	101	1816438	164	1816438
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2005"	"2005"	0.725	108	1820492	142	1820492
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2006"	"2006"	0.494	84	1827912	161	1827912
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2007"	"2007"	0.565	105	1834052	175	1834052
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2008"	"2008"	0.605	101	1840310	156	1840310
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2009"	"2009"	0.610	100	1847775	148	1847775
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2010"	"2010"	0.694	107	1854239	137	1854239
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2011"	"2011"	0.519	77	1856301	134	1856301
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2012"	"2012"	0.684	115	1856872	150	1856872
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2013"	"2013"	0.598	105	1853914	151	1853914
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2014"	"2014"	0.629	115	1849489	161	1849489
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2015"	"2015"	0.669	116	1842050	163	1842050
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2016"	"2016"	0.625	113	1831023	158	1831023
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2017"	"2017"	0.740	117	1817004	140	1817004
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2018"	"2018"	0.660	111	1804291	145	1804291
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"1999"	"1999"	0.648	253	5332666	390	5332666
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2000"	"2000"	0.686	269	5373999	391	5373999
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2001"	"2001"	0.633	262	5406835	410	5406835
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2002"	"2002"	0.659	267	5445162	399	5445162
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2003"	"2003"	0.695	269	5479203	383	5479203
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2004"	"2004"	0.608	246	5514026	398	5514026
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2005"	"2005"	0.648	282	5546166	428	5546166
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2006"	"2006"	0.565	271	5577655	465	5577655
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2007"	"2007"	0.565	278	5610775	477	5610775
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2008"	"2008"	0.741	332	5640996	443	5640996
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2009"	"2009"	0.587	306	5669264	501	5669264
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2010"	"2010"	0.624	293	5690475	456	5690475
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2011"	"2011"	0.715	355	5705288	481	5705288
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2012"	"2012"	0.662	293	5719960	428	5719960
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2013"	"2013"	0.672	328	5736754	456	5736754
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2014"	"2014"	0.680	341	5751525	488	5751525
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2015"	"2015"	0.711	339	5760940	448	5760940
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2016"	"2016"	0.696	343	5772628	457	5772628
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2017"	"2017"	0.691	343	5790186	469	5790186
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2018"	"2018"	0.696	355	5807406	469	5807406
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"1999"	"1999"	0.820	29	491780	36	491780
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2000"	"2000"	0.779	26	494300	33	494300
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2001"	"2001"	0.552	19	494657	34	494657
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2002"	"2002"	0.497	17	500017	35	500017
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2003"	"2003"	0.785	29	503453	37	503453
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2004"	"2004"	0.721	28	509106	40	509106
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2005"	"2005"	0.618	21	514157	33	514157
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2006"	"2006"	0.577	23	522667	38	522667
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2007"	"2007"	0.789	23	534876	28	534876
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2008"	"2008"	0.753	23	546043	31	546043
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2009"	"2009"	0.610	31	559851	50	559851
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2010"	"2010"	0.531	31	564487	58	564487
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2011"	"2011"	0.787	31	567299	36	567299
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2012"	"2012"	0.663	30	576305	43	576305
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2013"	"2013"	0.791	24	582122	32	582122
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2014"	"2014"	0.641	31	582531	47	582531
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2015"	"2015"	0.743	37	585613	46	585613
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2016"	"2016"	0.957	42	584215	42	584215
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2017"	"2017"	1.053 (Unreliable)	46	578931	42	578931
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2018"	"2018"	1.123 (Unreliable)	35	577601	31	577601
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2018 Mortality Incidence Rate Ratios"
+"Query Parameters:"
+"Leading Cancer Sites: Brain and Other Nervous System"
+"Group By: Leading Cancer Sites; State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMIR-v2018.html for more information."
+"---"
+"Query Date: Nov 29, 2021 8:12:52 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality Incidence Rate Ratios: 1999 - 2018, WONDER Online Database."
+"United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute;"
+"2021. Accessed at http://wonder.cdc.gov/CancerMIR-v2018.html on Nov 29, 2021 8:12:52 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Incidence Counts are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Incidence Counts are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Caution should be used when interpreting these Mortality Incidence Rate Ratios as coding for death certificates and cancer"
+"incidence records may vary significantly. The cancer incidence records are likely to be coded to a more specific topographic"
+"site which may give a false impression of an elevated rate ratio. Ratio values greater than 1 are flagged as Unreliable."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/CancerMIR-v2018.html#Confidentiality."
+"2. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites because aggregate values are displayed in the"
+"table. Also be aware that charts and maps containing both aggregate and detail data could be misleading."
+"4. These states are missing data for the indicated year: Arkansas 1999-2000; Mississippi 1999-2002; Nevada 2018; South Dakota"
+"1999-2000."
+"5. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the International Classification of Diseases (ICD), there are"
+"differences in mortality and incidence coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the"
+"primary site). However in ICD-O-3, one code captures all of the primary sites that mesothelioma affects. Note that Kaposi"
+"sarcoma deaths included in this dataset are only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and"
+"do not include deaths where the condition was a contributing cause of death, or subsequent to another underlying condition."
+"</li><li> The population used to age-adjust the rates in this report is the 2000 U.S. standard population, which is in"
+"accordance with a 1998 recommendation of the US. Department of Health and Human Services. The 2000 U.S. standard population is"
+"based on the proportion of the 2000 population in specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years,"
+"15-19 years, . . . 85 years or older); the proportions of the 2000 population in these age groups serve as weights for"
+"calculating age-adjusted incidence and death rates. NCHS, however, uses a different set of age groups in its age adjustment of"
+"death rates, and thus the cancer death rates in this report may differ slightly from those published by NCHS. </li><li> Deaths"
+"of persons of unknown age are not included in this data set. Death rates may differ slightly from other reports where deaths of"
+"persons of unknown age are included. </li></ul>"
+"6. Cancer incidence counts, populations, and rates may differ from those found in the United States Cancer Statistics incidence"
+"reports and data, because these data include only those specific cancer sites that can be linked to the mortality data. For"
+"example, in situ breast cancers are not included, and the appendix is not specified as a cancer site here."
+"7. Cancer mortality counts, populations, and rates may differ from those found in the United States Cancer Statistics mortality"
+"reports and data, because these data include only those specific reporting populations that can be linked to the incidence data."
+"For example, cancer incidence data are not available for all places and years."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
+"9. Incidence data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Data"
+"shown for the United States are diagnoses, deaths and populations only from places and years for included cancer registries."
