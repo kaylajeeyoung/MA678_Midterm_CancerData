@@ -26,7 +26,12 @@ brain_incident <- cbind(brain_incident, age_group)
 
 #visualize the brain incidence rate by age group 
 ggplot(brain_incident, aes(x = age_group, y = Count)) + theme_bw() + 
-  theme(axis.text.x=element_text(angle=45,hjust=1)) + geom_jitter()
+  theme(axis.text.x=element_text(angle=45,hjust=1)) + geom_jitter() + 
+  stat_summary(geom = "line", fun = "mean", col  = "blue", lwd = 2)
+#visualize with year 
+ggplot(brain_incident, aes(x = age_group, y = `Crude Rate`, color = Year)) + 
+  theme_bw() + theme(axis.text.x=element_text(angle=45,hjust=1)) + 
+  geom_jitter() + scale_color_gradient(low = "blue", high = "red")
 
 #clean up brain deaths
 age_group <- strsplit(brain_death$`Age Group Code`, "-")
@@ -36,8 +41,12 @@ brain_death <- cbind(brain_death, age_group)
 
 #visualize the brain incidence rate by age group 
 ggplot(brain_death, aes(x = age_group, y = Deaths)) + theme_bw() + 
-  theme(axis.text.x=element_text(angle=45,hjust=1)) + geom_jitter()
-
+  theme(axis.text.x=element_text(angle=45,hjust=1)) + geom_jitter()+ 
+  stat_summary(geom = "line", fun = "mean", col  = "blue", lwd = 2)
+#visualize with year 
+ggplot(brain_death, aes(x = age_group, y = `Crude Rate`, color = Year)) + 
+  theme_bw() + theme(axis.text.x=element_text(angle=45,hjust=1)) + 
+  geom_jitter() + scale_color_gradient(low = "blue", high = "red")
 
 #clean up brain rates
 brain_rate$`Mortality-Incidence Age-Adjusted Rate Ratio`

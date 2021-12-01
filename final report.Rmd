@@ -1,0 +1,33 @@
+---
+title: "MA678 Midterm Project Report"
+subtitle: "Investigation of brain cancer incidence"
+author: "Kayla Choi"
+date: "MSSP Fall 2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Abstract  
+
+  
+  
+## Introduction  
+  
+Cancer is a disease in which cells begin to rapidly proliferate abnormally. These cells can form clumps called tumors, which can progressively become deadly as it grows if located in a vital organ such as the lungs or the brain. Cancer of the brain or spinal cord, which are part of the central nervous system, is called glioblastoma. The median age of glioblastoma diagnosis is 61; however, the most common solid tumors that affect children are glioblastoma tumors.  
+
+
+  
+  
+## Method  
+  
+  
+## Results  
+  
+  
+## Discussion  
+  
+  
+  
