@@ -6,8 +6,9 @@ date: "MSSP Fall 2021"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, message=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+source("glioblastoma_regression.R")
 ```
 
 ## Abstract  
@@ -22,6 +23,13 @@ Cancer is a disease in which cells begin to rapidly proliferate abnormally. Thes
   
   
 ## Method  
+```{r}
+grid.arrange(plot_incplot_death)
+```
+  
+  
+  
+    
   
   
 ## Results  

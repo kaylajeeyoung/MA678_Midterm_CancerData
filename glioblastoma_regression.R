@@ -1,5 +1,5 @@
 source("glioblastoma_data.R")
-library(rstanarm)
+pacman::p_load(rstanarm, arm, bayesplot, lme4, tidyverse, gridExtra)
 
 #try out some simple linear regressions 
 ##incidence
@@ -22,8 +22,19 @@ summary(lm_4)
 ##the diagnostics look strange; try other regressions
 stan_1 <- stan_glm(`Crude Rate` ~ age_group + Year, data = brain_incident,refresh=0)
 stan_1_pred  <- posterior_predict(stan_1)
-ppc_dens_overlay(brain_incident$`Crude Rate`,postt[1:50,])
+ppc_dens_overlay(brain_incident$`Crude Rate`,stan_1_pred[1:50,])
 
+
+fit <- lmer(`Crude Rate` ~ age_group + Year + 
+                   (1 + Year | States), data = brain_incident)
+print(fit, digits=2)
+fixef(fit)
+ranef(fit)[[1]][1:10,]
+
+fit2 <- stan_glm(`Crude Rate` ~ age_group + Year + Region, data = region_incident, refresh = 0)
+summary(fit2)
+stan_2_pred <- posterior_predict(fit2)
+ppc_dens_overlay(region_incident$`Crude Rate`, stan_2_pred[1:50,])
 
 
 
