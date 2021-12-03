@@ -55,8 +55,10 @@ ggplot(brain_incident, aes(x = age_group, y = Count)) + theme_bw() +
 #visualize with year 
 plot_inc <- ggplot(brain_incident, aes(x = age_group, y = `Crude Rate`, color = Year)) + 
   theme_bw() + theme(axis.text.x=element_text(angle=45,hjust=1)) + 
+  theme(legend.position = c(.05, .95),
+        legend.justification = c("left", "top"), legend.box.just = "left") +
   geom_jitter() + scale_color_gradient(low = "blue", high = "red") + 
-  xlab("Age (Grouped)") + ylab("Crude Rate (10^-5)") + ggtitle("Crude Incidence Rate of Glioblastoma")
+  xlab("Age (Grouped)") + ylab("Crude Rate (10^-5)") + ggtitle(" Incidence Rate")
 
 #visualize the brain incidence rate by age group 
 ggplot(brain_death, aes(x = age_group, y = Deaths)) + theme_bw() + 
@@ -64,9 +66,9 @@ ggplot(brain_death, aes(x = age_group, y = Deaths)) + theme_bw() +
   stat_summary(geom = "line", fun = "mean", col  = "blue", lwd = 2)
 #visualize with year 
 plot_death <- ggplot(brain_death, aes(x = age_group, y = `Crude Rate`, group = Year, color = Year)) + 
-  theme_bw() + theme(axis.text.x=element_text(angle=45,hjust=1)) + 
+  theme_bw() + theme(legend.position = "none") + theme(axis.text.x=element_text(angle=45,hjust=1)) + 
   geom_jitter() + scale_color_gradient(low = "blue", high = "red") + 
-  xlab("Age (Grouped)") + ylab("Crude Rate (10^-5)") + ggtitle("Crude Mortality Rate of Glioblastoma")
+  xlab("Age (Grouped)") + ylab("Crude Rate (10^-5)") + ggtitle(" Death Rate of Glioblastoma")
   
 
 #Region
@@ -79,13 +81,16 @@ mean_region <- region_incident %>% group_by(Region, Year) %>%
 
 mean_region_plot <- ggplot(mean_region, aes(x = Year, y = mean, group = Region)) + 
   geom_point(aes(color = Region), size = 1) + theme_bw() +
-  ylab("Average Crude Rate (10^-5)") + ggtitle("Crude Incidence Rate of Glioblastoma")
+  theme(legend.position = "none") +
+  ylab("Average Crude Rate (10^-5)") + ggtitle("Crude Incidence Rate")
 
 mean_death <- region_death %>% group_by(Region, Year) %>% 
   dplyr::summarize(mean = mean(`Crude Rate`), sd = sd(`Crude Rate`))
 
 mean_death_plot <- ggplot(mean_death, aes(x = Year, y = mean, group = Region)) + 
   geom_point(aes(color = Region), size = 1) + theme_bw() +
+  theme(legend.position = c(.95, .05),
+        legend.justification = c("right", "bottom"), legend.box.just = "right") +
   ylab("Average Crude Rate (10^-5)") + ggtitle("Crude Death Rate of Glioblastoma")
 
 #Map

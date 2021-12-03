@@ -13,12 +13,12 @@ source("glioblastoma_regression.R")
 
 ## Abstract  
 
-  
+Glioblastoma is an aggressive type of cancer that targets the central nervous system. According to literature, it afflicts two main groups of people: babies to toddlers and older people. Using data pulled from the CDC database on cancer statistics in the United States, I observed the relationship between cancer incidence and mortality rates depending on age and confirmed that there is a bimodal distribution, with a peak at baby age and another at older age. I obtained a mixed effects model, conditioned on age grouping, year, and region in the United States. There are mixed results from the modeling and visualization. For one, though incidence rate generally decreases over time, death rate does not. One would expect that, with the development of newer cancer therapy, that this would not be the case. There are also some interesting state trends that do not correspond with       
   
 ## Introduction  
   
 Cancer is a disease in which cells begin to rapidly proliferate abnormally. These cells can form clumps called tumors, which can progressively become deadly as it grows if located in a vital organ such as the lungs or the brain. Cancer of the brain or spinal cord, which are part of the central nervous system, is called glioblastoma. The median age of glioblastoma diagnosis is 61; however, the most common solid tumors that affect children are glioblastoma tumors.  
-To investigate this phenomena, I wanted to look at the incidence and mortality rates for different age groups. From the CDC WONDER cancer statistics database, I obtained demographic information and the relevant cancer counts and rates, grouped by year and US state. I hypothesized that mortality rates may be different between the younger and older age groups, and that these rates could show a time-dependent trend. There may also be a difference in rates across different states; higher populated states with a greater biomedical research impact may see a decrease in mortality rates with new cancer research, and the other states may lag behind as the technology gets distributed. I look to investigate all these relationships.  
+To investigate this phenomena, I wanted to look at the incidence and mortality rates for different age groups. From the CDC WONDER cancer statistics database, I obtained demographic information and the relevant cancer counts and rates, grouped by year from 1999-2018, and US state. I hypothesized that mortality rates may be different between the younger and older age groups, and that these rates could show a time-dependent trend. There may also be a difference in rates across different states; higher populated states with a greater biomedical research impact may see a decrease in mortality rates with new cancer research, and the other states may lag behind as the technology gets distributed. I look to investigate all these relationships.  
   
 ## Method  
 ### Data Cleaning
@@ -26,28 +26,86 @@ The CDC database allows one to request incidence or mortality data grouped by di
 
 ### Data Visualization
 I performed basic EDA to quickly surmise the visible trends in the data. I plotted the incidence and death rate by age group, shown below.  
+  
 ```{r}
-grid.arrange(plot_inc,plot_death)
+grid.arrange(plot_inc,plot_death, ncol = 2)
 ```
   
 As expected from literature, in the incidence rate graph, there is a local peak at a very young age, then a tapering in the middle of life, then an increase as one gets older. There is an outlier, corresponding to an extremely high incidence count in Rhode Island in 2003 in 80-84 year-olds. In the mortality rate graph, we see a slightly different trend, of fewer young children dying from glioblastoma compared to a high rate in older people.   
   
 I also looked at the distribution of glioblastoma rates by regions of the US.  
+  
 ```{r}
-grid.arrange(mean_region_plot, mean_death_plot)
+grid.arrange(mean_region_plot, mean_death_plot, ncol = 2)
 ```
    
 Upon first glance, it seems that the Northeast has the highest incidence rates in general, followed by the Midwest, then the South, then the West. We see that generally the rates decrease over the years for the West and South. However, the mortality rates do not decrease; in fact, they seem to slightly increase. This is a surprising find that I will explore.  
 
 ### Modeling  
   
-  
+Though I knew from EDA that there is a distribution that is not Gaussian or Poisson, I began with simple linear regressions with crude rates as the outcome and different combinations of year, states, and/or age groups as predictors. The resulting diagnostic plots showed trends in the residuals and non-normality. The posterior prediction did not capture the data trends. Therefore, I moved to mixed effects models for correlated data. I settled on using the predictors age group, state, and year, with state as the grouping.      
   
   
 ## Results  
   
+The final mixed effects models for glioblastoma incidence included the square root transformation of the predictor age group to account for unconventional data distribution mentioned above. This would scale the higher ages down, so that the linear age group predictor would not underestimate the peak at the younger age.  
+I found that the intercept for the states (random effect) ranged from values of approximately -2 to 10. Interestingly, the areas with the lowest populations compared to the rest of the United States generally had a higher intercept, meaning a higher baseline incidence rate of glioblastoma.  
+  
+For the incidence rate:    
+```{r}
+fixef(fit)
+```
+  
+For the death rate:   
+```{r}
+fixef(fitb)
+```
+  
+With the model, I obtained predicted values for the observed and death data.  
+```{r}
+grid.arrange(lmer_inc_plot, lmer_death_plot, ncol = 2)
+```
+  
+The heteroskedasticity dictates that the model could further be improved.    
   
 ## Discussion  
   
+The results obtained were mixed and/or unexpected. I observed that the mortality rate does not decrease over the years, and it is unclear why. There were also unexpectedly high glioblastoma rates for some states, such as Rhode Island mentioned before. Literature search does not reveal any cancer-related phenomena in these states in the respective years. Without further information, it is impossible to hypothesize the reason for this. The model was able to capture the general trend, but there is heteroskedasticity with increasing age. Though I attempted to control for this with age group predictor transformation, this may simply come down to an intuitive reason that some states have a generally higher population of elderly, and we observed that increasing age corresponds to increasing risk of glioblastoma. Therefore, it makes sense that there is some spread. Next steps may be to dive further into investigating the age demographics of states over the years.    
+
+In regards to the data itself and the limitations posed, there was only a little over 13000 observations, once I cleaned the data of null values and only extracted glioblastoma, the cancer of interest. This may contribute to some uneven data, not missing completely at random, but there was no reasoning posted on the database website. From the map shown below in the appendix, it seems that the extremely lowly-populated states often missed data, which makes sense.  
+
+
+\newpage
+
+## Appendix
+The different models tried and their respective diagnostic plots are in the "glioblastoma_regression.R" file, for reference.  
   
+Here are the model details for the final models.   
+  
+For the incidence rate:  
+```{r}
+print(fit, digits=2)
+fixef(fit)
+ranef(fit)
+```
+  
+For the death rate:  
+```{r}
+print(fitb, digits=2)
+fixef(fitb)
+ranef(fitb)
+```
+  
+  
+```{r}
+visual_map
+```
+  
+This is an example of glioblastoma incidence rates (crude rate 10^-5) in 2017 across the states. The excluded states (North Dakota, South Dakota, and Wyoming), are missing data. The pooled incidence rates look generally similar across the US, except a few states in the NorthWest and in the NorthEast. These were confirmed in the results section.   
+  
+```{r}
+lmer_inc_diagnostic
+```
+  
+This plot using our final model. It depicts the prediction of brain incidence plotted against age group, which corresponds to the original EDA. The general shape is similar; however, we see more and more deviation with the higher age groups, and the younger age is also over-estimated. 
   
