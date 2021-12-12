@@ -1,5 +1,6 @@
 source("glioblastoma_data.R")
-pacman::p_load(rstanarm, arm, bayesplot, lme4, tidyverse, gridExtra, mixtools)
+pacman::p_load(rstanarm, arm, bayesplot, lme4, tidyverse, 
+               gridExtra, mixtools, sjPlot, sjmisc, glmmTMB)
 
 #try out some simple linear regressions 
 ##incidence
@@ -30,6 +31,7 @@ fit <- lmer(`Crude Rate` ~ age_group + sqrt(age_group) + Year +
 print(fit, digits=2)
 fixef(fit)
 ranef(fit)[[1]][1:10,]
+random_plot <- plot_model(fit, type = "re")
 brain_incident$fit <- predict(fit)
 lmer_inc_plot <- ggplot(brain_incident) + 
   geom_point(aes(x = `Crude Rate`, y = fit, color = age_group)) + 
